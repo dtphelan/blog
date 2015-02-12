@@ -3,7 +3,7 @@ layout:     post
 title:      "Starting Things"
 subtitle:   "Init commit, and so on"
 date:       2015-02-12 9:57:00
-author:     "Dan Phelan"
+author:     "Daniel Phelan"
 header-img: "img/post-bg-01.jpg"
 category:   web
 ---
