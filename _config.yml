@@ -12,6 +12,6 @@ facebook_username:  dan.phelan.14
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+permalink: none
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
