@@ -1,9 +1,9 @@
 # Site settings
-title: Clean Blog
+title: Things I Do
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "A blog, with boring things"
-baseurl: "/portfolio"
+description: "A blog, with blogging things"
+baseurl: "/blog"
 url: "http://mrandmrsphelan.com"
 twitter_username: dtphelan
 github_username:  dtphelan
