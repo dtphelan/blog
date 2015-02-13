@@ -23,6 +23,7 @@ The first map breaks down the commissions that commented on the base year that t
   ```
 
 You permutate for optionTwo, optionOneTwo, etc. This pattern has four variables, so it's in the fourVars folder. There are also two and three variable options, as well as single color options for red, blue, green, purple, yellow, and grey. We also linked up a CSS document to each map that went through each permutation of:
+
 ```
   .optionOne {
     fill:url(#optionOne);
@@ -31,7 +32,9 @@ You permutate for optionTwo, optionOneTwo, etc. This pattern has four variables,
     stroke-opacity:1;
   }
 ```
+
 Then, the blank states and states that didn't comment get:
+
 ```
   .state {
     fill:#FFFFFF;
@@ -46,6 +49,7 @@ Then, the blank states and states that didn't comment get:
     stroke-opacity:1;
   }
 ```
+
 You just make the class of each state the appropriate option, and ta-da, you've got a map. The SVG goes into GIMP, and you add your legend, key, and title.
 
 <img src="{{ site.baseurl }}/img/maps/mapTwo.jpg" alt="Reliability and Stranded Assets">
