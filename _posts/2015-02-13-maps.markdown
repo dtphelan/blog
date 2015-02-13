@@ -15,7 +15,7 @@ NRRI has been working with NARUC on these. They're for use by commissioners in a
 <img src="{{ site.baseurl }}/img/maps/mapOne.jpg" alt="Base Year">
 <span class="caption text-muted"></span>
 
-The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There's a file for "background" images that I use as patterns, like so in the <defs> section of the SVG:
+The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There's a file for "background" images that I use as patterns, like so in the ```<defs>``` section of the SVG:
 
     <pattern id="optionOne" patternUnits="userSpaceOnUse" width="20" height="20">
     <image xlink:href="background/fourVars/optionOne.png" x="0" y="0" width="20" height="20" />
