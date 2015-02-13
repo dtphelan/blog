@@ -4,7 +4,7 @@ title:      "Maps"
 subtitle:   "A bigger project than anticipated"
 date:       2015-02-13 16:24:00
 author:     "Daniel Phelan"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-02.jpg"
 category:   work
 ---
 
@@ -58,7 +58,7 @@ This map only has the two variables of reliability and stranded assets. Original
 
 <img src="{{ site.baseurl }}/img/maps/mapTwoB.jpg" alt="Early Action and Interim Goal Issues">
 
-Comments from reviewers found the map too busy, and I'd probably agree. I'm a bit grumpy that my work in making the one-color patterns was wasted, but I'll be looking to implement them on a future project. It seemed like there was some hope that fuel resource may correspond with one of the issues, but there really weren't any correlations to be drawn from any of this data.
+Comments from reviewers found the map too busy, and I'd probably agree. Also, I never got around to correcting the legend because we stopped using this map; note that the symbol for Stranded Assets is supposed to be a diamond. I'm a bit grumpy that my work in making the one-color patterns was wasted, but I'll be looking to implement them on a future project. It seemed like there was some hope that fuel resource may correspond with one of the issues, but there really weren't any correlations to be drawn from any of this data.
 
 <img src="{{ site.baseurl }}/img/maps/mapThree.jpg" alt="Early Action and Interim Goal Issues">
 
