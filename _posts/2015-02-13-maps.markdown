@@ -1,0 +1,91 @@
+---
+layout:     post
+title:      "Maps"
+subtitle:   "A bigger project than anticipated"
+date:       2015-02-13 16:24:00
+author:     "Daniel Phelan"
+header-img: "img/post-bg-01.jpg"
+category:   work
+---
+
+We ended up finishing those 111(d) maps; let's walk through them and think about the process/end results a bit.
+
+NRRI has been working with NARUC on these. They're for use by commissioners in a presentation describing how commissions have commented on the [EPA's proposed 111(d) rules](http://www2.epa.gov/carbon-pollution-standards/what-epa-doing). NRRI and NARUC have been going through the comments filed by each of the states, and have been looking for trends. One of the major issues between our organizations has been the inherently different nature of NRRI. We're a 501c(3), while they're a 501c(4). Layman's terms, they can do political advocacy and we can't. So, we've had to spend a lot of effort making sure that the maps aren't politically charged, while NARUC may have some points in mind that it would like to make. Ultimately, NRRI took its name off of the maps, but I'm not going to stop myself from writing about them.
+
+<img src="{{ site.baseurl }}/img/maps/mapOne.jpg" alt="Base Year">
+<span class="caption text-muted"></span>
+
+The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There's a file for "background" images that I use as patterns, like so in the <defs> section of the SVG:
+
+<pattern id="optionOne" patternUnits="userSpaceOnUse" width="20" height="20">
+  <image xlink:href="background/fourVars/optionOne.png" x="0" y="0" width="20" height="20" />
+  </pattern>
+
+You permutate for optionTwo, optionOneTwo, etc. This pattern has four variables, so it's in the fourVars folder. There are also two and three variable options, as well as single color options for red, blue, green, purple, yellow, and grey. We also linked up a CSS document to each map that went through each permutation of:
+
+  .optionOne {
+    fill:url(#optionOne);
+    stroke:#100101;
+    stroke-width:0.75;
+    stroke-opacity:1;
+  }
+
+Then, the blank states and states that didn't comment get:
+
+  .state {
+    fill:#FFFFFF;
+    stroke:#100101;
+    stroke-width:0.75;
+    stroke-opacity:1;
+  }
+  .noComment {
+    fill:#CCCCCC;
+    stroke:#100101;
+    stroke-width:0.75;
+    stroke-opacity:1;
+  }
+
+You just make the class of each state the appropriate option, and ta-da, you've got a map. The SVG goes into GIMP, and you add your legend, key, and title.
+
+<img src="{{ site.baseurl }}/img/maps/mapTwo.jpg" alt="Reliability and Stranded Assets">
+
+This map only has the two variables of reliability and stranded assets. Originally, these had been mapped separately, with colors according to fuel consumption, like so:
+
+<img src="{{ site.baseurl }}/img/maps/mapTwoB.jpg" alt="Early Action and Interim Goal Issues">
+
+Comments from reviewers found the map too busy, and I'd probably agree. I'm a bit grumpy that my work in making the one-color patterns was wasted, but I'll be looking to implement them on a future project. It seemed like there was some hope that fuel resource may correspond with one of the issues, but there really weren't any correlations to be drawn from any of this data.
+
+<img src="{{ site.baseurl }}/img/maps/mapThree.jpg" alt="Early Action and Interim Goal Issues">
+
+Another map that originally had been two maps. This seems like a good time to explain myself on font choices: yes, I went with Helvetica. A bit passé for the cool-kid crowd, but being ahead of the curve really isn't something I'm concerned about with this audience. It's not Times New Roman, so I'm expecting my audience to be blown away by that mere fact. Helvetica looks modern without being threatening to a less technologically-adept crowd.
+
+<img src="{{ site.baseurl }}/img/maps/mapFour.jpg" alt="Interim Goal and Stringency of State Goal">
+<span class="caption text-muted"></span>
+
+This is the style of map that had been proposed for both Early Action and Interim Goal comments. I'm not certain why reviewers only wanted this particular one, but that's what they said. You can pretty easily identify the issues with this map. First off, the stringency of state goals appears to have almost no correlation with states that commented on interim goals. So, why are they being mapped together? Personally, no clue. If you want two variables mapped together, I'd assume it's because they have some sort of relationship. This map really doesn't tell a story.
+
+Secondly, the stringency categories are poorly designed. We were told to pull them from the [Center for Climate and Energy Solutions' Proposed State Emmission Rate Targets map](http://www.c2es.org/federal/executive/epa/carbon-pollution-standards-map), so we copied the ranges directly. Unfortunately, it looks like C2ES was more focused on having a similar number of states in each category than in providing consistent brackets. Instead of breaking down the states into simple, 10-percentage-point brackets, C2ES wanted to have roughly 10 states in each category. So, the stringency measure isn't really representative of how stringent the states' goals actually are.
+
+<img src="{{ site.baseurl }}/img/maps/mapFive.jpg" alt="Building Block One Through Four">
+
+This map is, clearly, super busy. I couldn't come up with a better way to represent each building block, and, since most states that commented discussed all four building blocks, the map ends up looking like one consistent pattern. Currently, you can only really tell when a state didn't comment on one of the blocks, and that takes some serious focus. I'm not sure that this will be useful, especially when it's projected onto a screen that 100 feet away from the audience.
+
+<img src="{{ site.baseurl }}/img/maps/mapSix.jpg" alt="Interstate Issues Raised">
+
+This one is much more simple; I feel like the two variable maps look much better. Rectangles talked about fossil fuel interstate issues, slashes talked about renewable interstate issues. Clean and clear.
+
+<img src="{{ site.baseurl }}/img/maps/mapSeven.jpg" alt="Calculation of Renewable Energy Targets">
+
+Of course, we again were asked for a more complicated version. This map is just a breakdown of the renewable interstate issues, and no, you don't need to read through that mouthful of a title. The three variable pattern seems to work alright here; maybe I could come up with a better pattern for four variables in the future.
+
+Looking back, I may have missed that I needed to label states like Delaware and Rhode Island off to the side. I feel like I had done that on earlier drafts, but got tired by the end of the project and missed it here. One of the larger issues I had with this project was how much more time it took than I expected, and how many more revisions were asked for. It felt like there were a lot more people involved in the project than were actually doing the work, so I had a lot of (sometimes contradicting) feedback. I also had trouble getting quality feedback; for example, I would be told that the legend entry for one variable should change, but not how it should be changed. This led to me guessing at what they actually wanted, and then needing to do yet another round of revision after they didn't like what I came up with.
+
+<img src="{{ site.baseurl }}/img/maps/mapEight.jpg" alt="Jurisdiction">
+
+Those dynamics were really in play on this map. It wasn't given priority by the presenters, so they never gave me a clear vision of what the map was supposed to be. We went back and forth on the previously-mentioned fuel mix issues, the legend got rewritten three or four times, and I still had to make last-minute decisions about the categories that I couldn't clear with the reviewers. The map certainly *looks* fine, I'm just not sure that the presenters will use it.
+
+So, what are the lessons that we're going to take from this? Positively, I think that I did a good job setting up the sort-of back-end for this. It'll be easy for me to re-use this work in the future, as I can just plug class names into my SVG template, import to GIMP, and add a title and legend. I had to think about file structure and modularity while I was setting things up, and that should pay off in the future.
+
+On the other side, there were way too many people providing input on these. Further, it was frustrating to have some of the concerns that we raised at the beginning of the project be ignored, only to do them anyways when reviewers commented on the same issues. It feels like there's some sort of agenda behind some of the feedback we've received, but we don't really know what, who, or why. Add that to the fact that doing four rounds of edits in five days was exhausting, especially considering that I've have plenty of other work to do in preparation for this weekend.
+
+So, we've now written way to much about this. We'll try to relax a bit, considering that the conference is this weekend. Deadlines always seem to get stressful, even if I do my best to prepare my things ahead of time.

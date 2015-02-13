@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Things I Do</title>
+    <description>A blog, with blogging things</description>
+    <link>http://mrandmrsphelan.com/blog/</link>
+    <atom:link href="http://mrandmrsphelan.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 13 Feb 2015 16:28:25 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2015 16:28:25 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Maps</title>
+        <description>&lt;p&gt;We ended up finishing those 111(d) maps; let’s walk through them and think about the process/end results a bit.&lt;/p&gt;
+
+&lt;p&gt;NRRI has been working with NARUC on these. They’re for use by commissioners in a presentation describing how commissions have commented on the &lt;a href=&quot;http://www2.epa.gov/carbon-pollution-standards/what-epa-doing&quot;&gt;EPA’s proposed 111(d) rules&lt;/a&gt;. NRRI and NARUC have been going through the comments filed by each of the states, and have been looking for trends. One of the major issues between our organizations has been the inherently different nature of NRRI. We’re a 501c(3), while they’re a 501c(4). Layman’s terms, they can do political advocacy and we can’t. So, we’ve had to spend a lot of effort making sure that the maps aren’t politically charged, while NARUC may have some points in mind that it would like to make. Ultimately, NRRI took its name off of the maps, but I’m not going to stop myself from writing about them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapOne.jpg&quot; alt=&quot;Base Year&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There’s a file for “background” images that I use as patterns, like so in the &lt;defs&gt; section of the SVG:&lt;/defs&gt;&lt;/p&gt;
+
+&lt;pattern id=&quot;optionOne&quot; patternunits=&quot;userSpaceOnUse&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;
+  &lt;image xlink:href=&quot;background/fourVars/optionOne.png&quot; x=&quot;0&quot; y=&quot;0&quot; width=&quot;20&quot; height=&quot;20&quot; /&gt;
+  &lt;/pattern&gt;
+
+&lt;p&gt;You permutate for optionTwo, optionOneTwo, etc. This pattern has four variables, so it’s in the fourVars folder. There are also two and three variable options, as well as single color options for red, blue, green, purple, yellow, and grey. We also linked up a CSS document to each map that went through each permutation of:&lt;/p&gt;
+
+&lt;p&gt;.optionOne {
+    fill:url(#optionOne);
+    stroke:#100101;
+    stroke-width:0.75;
+    stroke-opacity:1;
+  }&lt;/p&gt;
+
+&lt;p&gt;Then, the blank states and states that didn’t comment get:&lt;/p&gt;
+
+&lt;p&gt;.state {
+    fill:#FFFFFF;
+    stroke:#100101;
+    stroke-width:0.75;
+    stroke-opacity:1;
+  }
+  .noComment {
+    fill:#CCCCCC;
+    stroke:#100101;
+    stroke-width:0.75;
+    stroke-opacity:1;
+  }&lt;/p&gt;
+
+&lt;p&gt;You just make the class of each state the appropriate option, and ta-da, you’ve got a map. The SVG goes into GIMP, and you add your legend, key, and title.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapTwo.jpg&quot; alt=&quot;Reliability and Stranded Assets&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This map only has the two variables of reliability and stranded assets. Originally, these had been mapped separately, with colors according to fuel consumption, like so:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapTwoB.jpg&quot; alt=&quot;Early Action and Interim Goal Issues&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Comments from reviewers found the map too busy, and I’d probably agree. I’m a bit grumpy that my work in making the one-color patterns was wasted, but I’ll be looking to implement them on a future project. It seemed like there was some hope that fuel resource may correspond with one of the issues, but there really weren’t any correlations to be drawn from any of this data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapThree.jpg&quot; alt=&quot;Early Action and Interim Goal Issues&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another map that originally had been two maps. This seems like a good time to explain myself on font choices: yes, I went with Helvetica. A bit passé for the cool-kid crowd, but being ahead of the curve really isn’t something I’m concerned about with this audience. It’s not Times New Roman, so I’m expecting my audience to be blown away by that mere fact. Helvetica looks modern without being threatening to a less technologically-adept crowd.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapFour.jpg&quot; alt=&quot;Interim Goal and Stringency of State Goal&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the style of map that had been proposed for both Early Action and Interim Goal comments. I’m not certain why reviewers only wanted this particular one, but that’s what they said. You can pretty easily identify the issues with this map. First off, the stringency of state goals appears to have almost no correlation with states that commented on interim goals. So, why are they being mapped together? Personally, no clue. If you want two variables mapped together, I’d assume it’s because they have some sort of relationship. This map really doesn’t tell a story.&lt;/p&gt;
+
+&lt;p&gt;Secondly, the stringency categories are poorly designed. We were told to pull them from the &lt;a href=&quot;http://www.c2es.org/federal/executive/epa/carbon-pollution-standards-map&quot;&gt;Center for Climate and Energy Solutions’ Proposed State Emmission Rate Targets map&lt;/a&gt;, so we copied the ranges directly. Unfortunately, it looks like C2ES was more focused on having a similar number of states in each category than in providing consistent brackets. Instead of breaking down the states into simple, 10-percentage-point brackets, C2ES wanted to have roughly 10 states in each category. So, the stringency measure isn’t really representative of how stringent the states’ goals actually are.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapFive.jpg&quot; alt=&quot;Building Block One Through Four&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This map is, clearly, super busy. I couldn’t come up with a better way to represent each building block, and, since most states that commented discussed all four building blocks, the map ends up looking like one consistent pattern. Currently, you can only really tell when a state didn’t comment on one of the blocks, and that takes some serious focus. I’m not sure that this will be useful, especially when it’s projected onto a screen that 100 feet away from the audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapSix.jpg&quot; alt=&quot;Interstate Issues Raised&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This one is much more simple; I feel like the two variable maps look much better. Rectangles talked about fossil fuel interstate issues, slashes talked about renewable interstate issues. Clean and clear.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapSeven.jpg&quot; alt=&quot;Calculation of Renewable Energy Targets&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, we again were asked for a more complicated version. This map is just a breakdown of the renewable interstate issues, and no, you don’t need to read through that mouthful of a title. The three variable pattern seems to work alright here; maybe I could come up with a better pattern for four variables in the future.&lt;/p&gt;
+
+&lt;p&gt;Looking back, I may have missed that I needed to label states like Delaware and Rhode Island off to the side. I feel like I had done that on earlier drafts, but got tired by the end of the project and missed it here. One of the larger issues I had with this project was how much more time it took than I expected, and how many more revisions were asked for. It felt like there were a lot more people involved in the project than were actually doing the work, so I had a lot of (sometimes contradicting) feedback. I also had trouble getting quality feedback; for example, I would be told that the legend entry for one variable should change, but not how it should be changed. This led to me guessing at what they actually wanted, and then needing to do yet another round of revision after they didn’t like what I came up with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapEight.jpg&quot; alt=&quot;Jurisdiction&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Those dynamics were really in play on this map. It wasn’t given priority by the presenters, so they never gave me a clear vision of what the map was supposed to be. We went back and forth on the previously-mentioned fuel mix issues, the legend got rewritten three or four times, and I still had to make last-minute decisions about the categories that I couldn’t clear with the reviewers. The map certainly &lt;em&gt;looks&lt;/em&gt; fine, I’m just not sure that the presenters will use it.&lt;/p&gt;
+
+&lt;p&gt;So, what are the lessons that we’re going to take from this? Positively, I think that I did a good job setting up the sort-of back-end for this. It’ll be easy for me to re-use this work in the future, as I can just plug class names into my SVG template, import to GIMP, and add a title and legend. I had to think about file structure and modularity while I was setting things up, and that should pay off in the future.&lt;/p&gt;
+
+&lt;p&gt;On the other side, there were way too many people providing input on these. Further, it was frustrating to have some of the concerns that we raised at the beginning of the project be ignored, only to do them anyways when reviewers commented on the same issues. It feels like there’s some sort of agenda behind some of the feedback we’ve received, but we don’t really know what, who, or why. Add that to the fact that doing four rounds of edits in five days was exhausting, especially considering that I’ve have plenty of other work to do in preparation for this weekend.&lt;/p&gt;
+
+&lt;p&gt;So, we’ve now written way to much about this. We’ll try to relax a bit, considering that the conference is this weekend. Deadlines always seem to get stressful, even if I do my best to prepare my things ahead of time.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Feb 2015 11:24:00 -0500</pubDate>
+        <link>http://mrandmrsphelan.com/blog/work/maps.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/maps.html</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Things That Occur at Work</title>
+        <description>&lt;p&gt;The previous post worked so well that it’s now the About page. Copying that is certainly much easier than striking that balance between I’m-so-great and I’m-so-down-to-earth that an About section always seems to need. Moving on. We’re talking about work here, or, the thing that I’m distracting myself from by writing. We’re in need of pacing ourselves today; it’s already been (and will continue to be) pretty busy.&lt;/p&gt;
+
+&lt;p&gt;My company goes to the three annual meetings of our not-exactly-parent organization, the &lt;a href=&quot;http://www.naruc.org&quot;&gt;National Association of Regulatory Utility Commissioners (NARUC)&lt;/a&gt;, and one of those starts this weekend. Fortunately, we don’t need to travel for this one, as it takes place right off the Red Line in DC. Still, we print mountains of presentations and papers, and generally have to be on our collective A-game when interacting with Commissioners. I’ve also gotten roped into doing graphics for a presentation on the EPA’s 111(d) proposal, which has created a sizable amount of work. I’ll probably throw some of those up here when they’re finished.&lt;/p&gt;
+
+&lt;p&gt;I also had to draft up an op-ed for &lt;a href=&quot;http://www.energybiz.com&quot;&gt;EnergyBiz&lt;/a&gt;, an energy-sector magazine/website/whatever the hell media wants to call itself these days. It’s a pretty simple restatement of &lt;a href=&quot;http://communities.nrri.org/research-papers/-/document_library_display/3stN/view/0/15401?_110_INSTANCE_3stN_redirect=http%3A%2F%2Fcommunities.nrri.org%2Fresearch-papers%3Fp_p_id%3D110_INSTANCE_3stN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1&quot;&gt;my last research paper&lt;/a&gt;, but in a much more succinct package.&lt;/p&gt;
+
+&lt;p&gt;Moving forwards, I think I have an idea for the next research paper. I already have a title (as that’s clearly the most important part of a paper): Designing Effective Cybersecurity Regulation: Concepts, Misconceptions, and Innovations. I’m pretty big on the subtitle, even if I’m not convinced that putting Concepts and Misconceptions back-to-back is correct; we may need to find a synonym for one of the two. It really creates a whole narrative journey in just three words. Concepts, or, the boring part that you still need to know. Misconceptions, the dangerous part that eats away at your confidence. Innovations, to provide a goal, to promise a forward path for the reader.&lt;/p&gt;
+
+&lt;p&gt;Anyways, the idea of the paper is that regulators and technical experts speak very, very different languages. I’ve sat through a number of really cool presentations on honeypots and Stuxnet that are filled with cat jokes and internet memes. Simply, these things are not going to gain the interest, or respect, of the more traditional-minded utility regulator. So, a lot of things get lost in the divide. Basic security concepts, like &lt;a href=&quot;http://www.crypto-it.net/eng/theory/kerckhoffs.html&quot;&gt;Kerckhoffs’ principle&lt;/a&gt;, aren’t understood by most regulators. This leads to some misguided efforts in creating cybersecurity regulation. I want to provide regulators with the knowledge background needed to create effective regulations; regulations that are reasonably met, technically accurate, and engender safer cybersecurity practices.&lt;/p&gt;
+
+&lt;p&gt;We’ll see how that goes. Anyways, I’m back to the third (fourth? fifth?) revision of these 111(d) maps.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Feb 2015 05:09:00 -0500</pubDate>
+        <link>http://mrandmrsphelan.com/blog/work/thingsAtWork.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/thingsAtWork.html</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Starting Things</title>
+        <description>&lt;p&gt;We’re in the first stages of setting things up here, but the idea is to give myself a space to unload things I’ve been working on. Without, hopefully, that hesitation that usually comes with creative work, the constricting structure that articles on blog SEO tend to emphasize, or any one-topic myopia.&lt;/p&gt;
+
+&lt;p&gt;We’ve started by hosting this with GitHub Pages, a super useful service for putting things on the web with minimal resources (read: funding). We already have experience with the service from &lt;a href=&quot;http://mrandmrsphelan.com&quot;&gt;mrandmrsphelan.com&lt;/a&gt;, a website with information about my upcoming wedding, and the ease of setting up project pages is excellent. &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is going to be our site generator, and we were happy to start with the &lt;a href=&quot;https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll&quot;&gt;Clean Blog&lt;/a&gt; theme from Start Bootstrap. Each of these things are easy to set up and have plenty of tutorial-style documentation, which is good for someone like me.&lt;/p&gt;
+
+&lt;p&gt;So, who is someone like me? Well, a technology-minded policy wonk. My day job is researching energy and telecommunications regulation, and my free time is predominantly dedicated to learning programming. Here, you’ll probably see a mix of those topics. I’ll be posting untested ideas related to my research, descriptions of (in my opinion) cool programming things, and, occasionally, I might even touch on some wider politics subjects.&lt;/p&gt;
+
+&lt;p&gt;Anyways, things will be moving around. I don’t have a real end-goal for this, so we’ll see where things lead.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 04:57:00 -0500</pubDate>
+        <link>http://mrandmrsphelan.com/blog/web/gettingStarted.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/web/gettingStarted.html</guid>
+        
+        
+        <category>web</category>
+        
+      </item>
+    
+  </channel>
+</rss>
