@@ -5,6 +5,7 @@ subtitle:   "A bigger project than anticipated"
 date:       2015-02-13 16:24:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-02.jpg"
+comments:   true
 category:   work
 ---
 
