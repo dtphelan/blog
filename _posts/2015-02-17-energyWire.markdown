@@ -2,7 +2,7 @@
 layout:     post
 title:      "State search for strong cyberdefense strategies"
 subtitle:   "Originally posted by EnergyWire"
-date:       2015-02-13 10:09:00
+date:       2015-02-17 12:16:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-03.jpg"
 comments:   true
