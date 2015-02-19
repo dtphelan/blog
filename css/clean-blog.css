@@ -1,3 +1,9 @@
+.footnotes {
+  line-height: 1.0;
+  opacity: 0.8;
+  font-style: italic;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
