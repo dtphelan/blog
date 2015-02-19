@@ -24,4 +24,6 @@ I'm planning on developing briefs for the following. Once I do, I'll update this
 * Data Privacy
 * Information Sharing
 
+<div class="footnotes">
 <div id="footnoteOne">1: I'm trying to move away from the royal We, although it's a struggle. I was going back and forth between We and I, and it was confusing. My other big writing habit is my usage of semicolons; don't expect that one to stop.<a href="#footnoteOneReturn" title="Return to article">↩</a></div>
+</div>
