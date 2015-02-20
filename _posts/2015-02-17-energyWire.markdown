@@ -151,3 +151,5 @@ Since 2012, New York's Public Service Commission has directed large utilities to
 Phelan credited New York as being one of the more vocal states on the cybersecurity issue but concluded from the survey that most electric utilities and regulatory commissions are far from declaring victory against the shadowy, evolving cybersecurity threats they face.
 
 "We really found that commissions aren't ready to say that they've been successful, that their way is the right way," he said. "So the level of confidence in utility commissions that they're doing the right thing isn't extraordinarily high, but they're more than willing to act and to try to figure out the way forward."
+
+<a href="http://www.eenews.net/stories/1060013552">Available at EnergyWire, story by Peter Behr and Blake Sobczak.</a>
