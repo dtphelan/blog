@@ -6,7 +6,7 @@ date:       2015-02-19 10:09:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-02.jpg"
 comments:   true
-category:   [work, topics]
+category:   work, topics
 ---
 
 I'm moving forward with an eye on Critical Infrastructure topics. Most of my ideas are cybersecurity-focused, but I'm trying to at least come up with some other options. The following "abstracts" are going out to commissioners and staff; their input will largely decide which one I focus on. These other topics may come up at some later time, but no promises.

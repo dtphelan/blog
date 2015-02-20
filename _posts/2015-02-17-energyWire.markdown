@@ -6,7 +6,7 @@ date:       2015-02-17 12:16:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-03.jpg"
 comments:   true
-category:   [press, cyber]
+category:   press, cyber
 ---
 
 In Washington state, power utilities are expected to invite "good guy" hackers to try to break into critical systems to surface any cybersecurity vulnerabilities.
