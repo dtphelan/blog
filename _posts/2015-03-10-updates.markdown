@@ -19,4 +19,4 @@ Two of the closures came as a result of hardware failures that were too expensiv
 
 Further, it's been difficult to examine the effects of closures. We wanted to look at economic and census data and see if any conclusions could be divined. Given that our sample size is a miserable four, we didn't expect very much to come of such an analysis, but we found even less data to work with. The Census collects economic data every five years, with the last round occurring in 2012. Only one plant has data for both before and after closure, and controlling for the macroeconomic effects of the Great Recession is going to be difficult.
 
-This leaves us with little to work on, and only a month to work on it. Clearly, I'm pretty down on the project. Most likely, the project ends up being anectdotal, however useful that is.
+This leaves us with little to work on, and only a month to work on it. Clearly, I'm pretty down on the project. Most likely, the project ends up being anecdotal, however useful that is.
