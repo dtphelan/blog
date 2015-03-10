@@ -9,7 +9,7 @@ comments:   true
 category:   work
 ---
 
-Where did that leave me? It has now been two-and-a-half weeks since I wrote something. That's over twice as long as I had remained committed to writing. Well, let's not get to discouraged. Back to it.
+Where did that leave me? It has now been two-and-a-half weeks since I wrote something. That's over twice as long as I had remained committed to writing. Well, let's not get too discouraged. Back to it.
 
 Today's agenda is going to include reading about security threats, watching associated lectures, and finalizing my UTC security committee presentation. That's happening on Thursday; I'm presenting my commission action report to telecom industry folks. I'm not envisioning a huge revision of my standard presentation, so that shouldn't be too heavy a lift. Nonetheless, it's 11 AM and I haven't accomplished very much.
 
