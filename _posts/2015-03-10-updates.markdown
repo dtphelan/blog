@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Updates"
+subtitle:   "Cybersecurity agenda, and the state of nuclear retention"
+date:       2015-03-10 11:19:00
+author:     "Daniel Phelan"
+header-img: "img/post-bg-02.jpg"
+comments:   true
+category:   work
+---
+
+Where did that leave me? It has now been two-and-a-half weeks since I wrote something. That's over twice as long as I had remained committed to writing. Well, let's not get to discouraged. Back to it.
+
+Today's agenda is going to include reading about security threats, watching associated lectures, and finalizing my UTC security committee presentation. That's happening on Thursday; I'm presenting my commission action report to telecom industry folks. I'm not envisioning a huge revision of my standard presentation, so that shouldn't be too heavy a lift. Nonetheless, it's 11 AM and I haven't accomplished very much.
+
+I'm also on-call for a discussion with the boss about our project on nuclear retention. Broadly, we're going to be looking at how retention decisions have been made across the country. In the past five years, four nuclear plants have closed, and another faces the strong possibility of closure. The nuclear industry, as a whole, has taken this threat to heart, with a lot of hand-wringing about nuclear's role in the future generating mix. NRRI has been approached to examine the issue, originally look at the role of state commissions in the closure process. However, we've come to the conclusion that there really isn't much of a commission role in the decision.
+
+Two of the closures came as a result of hardware failures that were too expensive to repair, and the other two have resulted from uneconomic conditions brought about largely by the low price of natural gas. Commissions have neither directed these generators to close, nor directed them to stay open. In restructured states, commissions have no control over generation, and it's difficult to see how a commission could influence a merchant generator's decision to shutter.
+
+Further, it's been difficult to examine the effects of closures. We wanted to look at economic and census data and see if any conclusions could be divined. Given that our sample size is a miserable four, we didn't expect very much to come of such an analysis, but we found even less data to work with. The Census collects economic data every five years, with the last round occurring in 2012. Only one plant has data for both before and after closure, and controlling for the macroeconomic effects of the Great Recession is going to be difficult.
+
+This leaves us with little to work on, and only a month to work on it. Clearly, I'm pretty down on the project. Most likely, the project ends up being anectdotal, however useful that is.
