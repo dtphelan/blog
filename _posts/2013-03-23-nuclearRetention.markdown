@@ -7,8 +7,6 @@ author:     "Daniel Phelan"
 header-img: "img/post-bg-01.jpg"
 comments:   true
 ---
-# History #
-
 Nuclear power has historically provided baseload generation for the United States’ electric grid, and supplied roughly 10% of the country’s energy generation in 2013. Nuclear offers baseload power with low greenhouse gas emissions and low fuel costs, but issues with high up-front costs and, increasingly, low wholesale electricity costs have limited the expansion of nuclear power. Existing plants that must compete with the price of natural gas in restructured markets have, in some cases, opted to shut down rather than operate at losses. The price pressures on nuclear power have placed the future of the resource under threat.
 
 Figure 1 offers a summary of the American nuclear fleet and the energy markets that they operate in. Blue states are those with restructured, or deregulated, markets, and orange states are those that deregulated, but later suspended restructuring. The grey dots show operating nuclear plants, while the red dots show recently closed nuclear plants and green dots show nuclear plants under construction.
