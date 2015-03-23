@@ -29,7 +29,7 @@ Where possible, we have collected and noted the number of employees and payroll 
 
 # Case Studies #
 
-The four plants that have been closed since 2009 have distinct, yet similar, stories behind their closure. Two were shut down for explicit economic reasons; their operators both cited the low cost of competing resources as the primary reason for the closure. One of these plants also faced vociferous political outcry while its license renewal was considered. The other two plants saw technical malfunctions that were extremely costly. After attempts to repair these plants, their owners chose to close the plants rather than bear the repair costs. Only one closed plant was in an energy market that is still regulated by its public service commission; the other three were in restructured markets, and each of those operated within an ISO.
+The four plants that have been closed since 2009 have distinct, yet similar, stories behind their closure. Two were shut down for explicit economic reasons; their operators both cited the low cost of competing resources as the primary reason for the closure. One of these plants also faced vociferous political outcry while its license renewal was considered. The other two plants saw technical malfunctions that were extremely costly. After attempts to repair these plants, their owners chose to close the plants rather than bear the repair costs.
 
 Here, we will describe the conditions surrounding each plant’s closure, including any attempts made by responsible regulatory bodies to examine the plant’s future.
 
