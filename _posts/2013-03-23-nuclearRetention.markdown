@@ -35,7 +35,7 @@ Here, we will describe the conditions surrounding each plant’s closure, includ
 
 ## Vermont Yankee ##
 
-The Vermont Yankee nuclear power plant operated as a merchant generator in Vernon, Vermont. The plant generated 604 MW, and supplied roughly 4% of New England’s total annual electricity supply. Vermont Yankee shut down on December 29, 2014.![Vermont Yankee](img/nuclearRetention/vermontYankee.jpg)
+The Vermont Yankee nuclear power plant operated as a merchant generator in Vernon, Vermont. The plant generated 604 MW, and supplied roughly 4% of New England’s total annual electricity supply. Vermont Yankee shut down on December 29, 2014.![Vermont Yankee](img/nuclearRetention/vermontYankee.jpg){: .right-image }
 
 Vermont Yankee began operation in 1972, and employed 625 people when its closure was announced. The plant’s payroll was roughly $58 million. A report submitted to the Vermont Public Service Board (VTPSB) estimated that keeping the plant running through 2032 would create an average of 1,088 more employees in Windham County, and 260 more employees across the rest of Vermont. The plant applied for a license extension with NRC in January 2006. In 2010, the Vermont State Senate prevented VTPSB from considering the continued operation of the plant. According to Greenpeace, Vermont is the only state in which the legislature is able to vote on shutting down a plant. The legislature must extend a “certificate of good” before a plant can operate, and the Senate did not approve Vermont Yankee’s extension.
 
@@ -47,7 +47,7 @@ ISO-NE reported that its reliability studies had concluded “that the regional 
 
 ## San Onofre Nuclear Generating Station ##
 
-The San Onofre Nuclear Generating Station (SONGS) was owned by Southern California Edison (SCE), and included two reactors with a maximum capacity of 1127 MW each. SONGS is being decommissioned due to damage found in the plant’s steam generators. One reactor, Unit 3, experienced a radioactive leak in January 2012. The reactor was shut down, and inspections found premature wear on replacement steam generators installed in 2010 and 2011 in Unit 2 and Unit 3. The NRC ordered that Unit 2, already shut down for refueling and replacement of the reactor’s vessel head, and Unit 3 were not to be restarted until the cause of the wear was determined. SCE has since begun the decommissioning process for the plant.![San Onofre](img/nuclearRetention/sanOnofre.jpg)
+The San Onofre Nuclear Generating Station (SONGS) was owned by Southern California Edison (SCE), and included two reactors with a maximum capacity of 1127 MW each. SONGS is being decommissioned due to damage found in the plant’s steam generators. One reactor, Unit 3, experienced a radioactive leak in January 2012. The reactor was shut down, and inspections found premature wear on replacement steam generators installed in 2010 and 2011 in Unit 2 and Unit 3. The NRC ordered that Unit 2, already shut down for refueling and replacement of the reactor’s vessel head, and Unit 3 were not to be restarted until the cause of the wear was determined. SCE has since begun the decommissioning process for the plant.![San Onofre](img/nuclearRetention/sanOnofre.jpg){: .right-image }
 
 Unit 1 of SONGS generated 456 MW and was retired in 1992, while Units 2 and 3 generated 1127 MW each before their retirement. San Diego County is the largest county to see a nuclear plant shut down; SONGS employed just 1,500 of the county’s roughly 1.16 million employees.
 
@@ -59,7 +59,7 @@ In 2013 and 2014 Local Capacity Technical Studies, CA-ISO included scenarios in 
 
 ## Kewaunee Power Station ##
 
-Dominion Resources shut down the Kewaunee Power Station in 2013. The 556 MW plant was purchased by Dominion in 2005, and had previously been owned by Wisconsin’s regulated Wisconsin Public Service. After the company sold the plant, the Public Service Commission of Wisconsin no longer had jurisdiction over the plant’s rates, and Dominion had to rely upon market prices for wholesale electric power to operate the plant.![Kewaunee](img/nuclearRetention/kewaunee.jpg)
+Dominion Resources shut down the Kewaunee Power Station in 2013. The 556 MW plant was purchased by Dominion in 2005, and had previously been owned by Wisconsin’s regulated Wisconsin Public Service. After the company sold the plant, the Public Service Commission of Wisconsin no longer had jurisdiction over the plant’s rates, and Dominion had to rely upon market prices for wholesale electric power to operate the plant.![Kewaunee](img/nuclearRetention/kewaunee.jpg){: .right-image }
 
 In April 2011, Dominion announced that it planned to sell Kewaunee after it was unable to grow its Midwest nuclear fleet. Dominion claimed that Kewaunee’s PPAs were ending when wholesale electric prices were low, ensuring that new PPAs would make keeping the plant running uneconomic. In 2012, when no buyer was found for the plant, Dominion announced that it would close the plant. Dominion reserved $578 million for the plant’s decommissioning. Dominion employed 655 full time employees at Kewaunee Power Station, roughly 12% of Kewaunee County’s employees. Kewaunee County is the smallest county in which a nuclear plant has been closed, with roughly 20,500 residents.
 
@@ -67,7 +67,7 @@ After Dominion’s announcement of the closure, the Midcontinent Independent Sys
 
 ## Crystal River 3 Nuclear Plant ##
 
-The Crystal River nuclear plant was an 842 MW station in Florida. The plant stopped running after a refueling outage in September 2009, when the plant’s containment structure was damaged while Progress Energy attempted to replace steam generators within the plant. The plant’s owners, Duke Energy, have decided to decommission the plant rather than undertake the costly repair process.![Crystal River](img/nuclearRetention/crystalRiver.jpg)
+The Crystal River nuclear plant was an 842 MW station in Florida. The plant stopped running after a refueling outage in September 2009, when the plant’s containment structure was damaged while Progress Energy attempted to replace steam generators within the plant. The plant’s owners, Duke Energy, have decided to decommission the plant rather than undertake the costly repair process.![Crystal River](img/nuclearRetention/crystalRiver.jpg){: .right-image }
 
 Duke acquired the plant in 2012, when they purchased Progress Energy. The plant was previously purchased from Florida Progress Corporation, and had been regulated by the Florida Public Service Commission (FLPSC) throughout its history. The FLPSC approved a $288 million refund to customers to account for the cost of replacement power needed due to the Crystal River outage.
 
