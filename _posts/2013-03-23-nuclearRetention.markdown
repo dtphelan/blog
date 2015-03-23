@@ -13,13 +13,13 @@ Nuclear power has historically provided baseload generation for the United State
 
 Figure 1 offers a summary of the American nuclear fleet and the energy markets that they operate in. Blue states are those with restructured, or deregulated, markets, and orange states are those that deregulated, but later suspended restructuring. The grey dots show operating nuclear plants, while the red dots show recently closed nuclear plants.
 
-![Electricity Restructuring and Nuclear Power Plants](/img/nuclearRetention/figureOne.png)
+![Electricity Restructuring and Nuclear Power Plants](img/nuclearRetention/figureOne.png)
 
 29 nuclear plants operate in restructured markets, and a further 5 have been part of a restructured market in the past. 24 plants operate in regulated markets. Three additional not-pictured plants are under construction, each in regulated states. Closures have taken place in one formerly deregulated market and three regulated states, although two of those three plants were operating as merchant generators that sold their power in nearby electric markets. Estimations of “at-risk” plants vary, but most at-risk plants currently operate in restructured markets.
 
 Nuclear power also offers economic support to local economies, and those impacts are perhaps more immediate to their communities than a closure’s impacts on the larger energy markets. Nuclear plants offer high-paying jobs that, in some cases, represent a large part of a community’s payroll. Table 1 shows economic data regarding the communities in which a nuclear plant has been closed, which varies from the small communities of Windham County, Vermont and Kewaunee County, Wisconsin, to the populous San Diego County, California.
 
-![Counties with Closed Nuclear Plants](/img/nuclearRetention/tableOne.png)
+![Counties with Closed Nuclear Plants](img/nuclearRetention/tableOne.png)
 
 The economic data surrounding the closure of nuclear plants is unclear at this time. The Census records economic data every five years, with the last collection occurring in 2012. Three of the four plants that have recently closed were shut down after 2012’s economic census, and we are therefore unable to assess any county or state changes in economic conditions. Further, even with before-and-after statistics, as with the Crystal River Nuclear Plant, it is difficult to say what direct impact the plant closure itself had on the surrounding economy. Greater macroeconomic conditions, such as the Great Recession, are more likely to have caused economic changes within these communities.
 
