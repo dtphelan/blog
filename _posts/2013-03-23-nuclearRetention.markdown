@@ -12,7 +12,7 @@ Nuclear power has historically provided baseload generation for the United State
 From January 2006 to January 2012, the average wholesale price of electricity in the MISO and PJM markets decreased from around $30-$40/MWh to roughly $20-$30/MWh, as seen in Figure 1 below. This has lowered the “quark spread”-the difference between the wholesale price of electricity and the cost of nuclear fuel.
 
 ### Figure 1. Average Monthly Quark Spreads for the MISO and PJM Markets ###
-![Average Monthly Quark Spreads for the MISO and PJM Markets](img/nuclearRention/figureOne.png)
+![Average Monthly Quark Spreads for the MISO and PJM Markets](img/nuclearRetention/figureOne.png)
 
 It is important to note that the average fuel price, as seen in Figure 1, is not representative of all of the costs that face a nuclear generator. Nuclear plants are also seeing rising Operations and Maintenance (O&M) costs. The nuclear fleet is no longer new technology; the average age of a nuclear plant in the United States is 34 years, and 58 plants have applied for license extensions that would allow them to operate past their initial 40-year license period. Estimates have found a $10/MWh increase in non-fuel O&M costs over the 2006 – 2012 time period. The combined factors of lowering electricity prices and increasing costs leave little margin for profit at plants operating in these markets.
 
