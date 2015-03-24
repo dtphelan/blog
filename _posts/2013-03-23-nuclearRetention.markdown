@@ -36,7 +36,7 @@ Where possible, we have collected and noted the number of employees and payroll 
 
 # Case Studies #
 
-The four plants that have been closed since 2009 have distinct, yet similar, stories behind their closure. Two were shut down for explicit economic reasons; their operators both cited the low cost of competing resources as the primary reason for the closure. One of these plants also faced vociferous political outcry while its license renewal was considered. The other two plants saw technical malfunctions that were extremely costly. After attempts to repair these plants, their owners chose to close the plants rather than bear the repair costs.
+The four plants that have been closed since 2012 have distinct, yet similar, stories behind their closure. Two were shut down for explicit economic reasons; their operators both cited the low cost of competing resources as the primary reason for the closure. One of these plants also faced vociferous political outcry while its license renewal was considered. The other two plants saw technical malfunctions that were extremely costly. After attempts to repair these plants, their owners chose to close the plants rather than bear the repair costs.
 
 Here, we will describe the conditions surrounding each plant’s closure, including any attempts made by responsible regulatory bodies to examine the plant’s future.
 
@@ -102,7 +102,7 @@ State incentives that encourage nuclear power vary between the states. Some stat
 
 The states that have adopted nuclear disincentives have largely done so on the requirement that a waste disposal solution is discovered. California, Connecticut, Illinois, Maine, Oregon, West Virginia, and Wisconsin will not allow new nuclear to be built until viable waste disposal options are found. Wisconsin also requires that a new nuclear plant prove that it is economically feasible. Hawaii, Massachusetts, Rhode Island, and Vermont require legislative approval for new nuclear plants, while Maine, Massachusetts, and Oregon require voter approval. Minnesota has banned new nuclear plants.
 
-### State Legislative Incentives and Nuclear Power Plants ###
+### Figure 3. State Legislative Incentives and Nuclear Power Plants ###
 ![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureThree.png)
 
 Few of these policies affect already-constructed plants. Alabama, Indiana, and Ohio do offer incentives to running plants, but each of the negative incentives is placed on potential new nuclear plants. Nonetheless, three of the four recent closures have occurred in states that have adopted negative nuclear incentives. The final closure occurred in Florida, whose policies have encouraged new nuclear development. New nuclear appears to be linked to such positive incentives, as two of the three plants under construction are located in states with those policies.
