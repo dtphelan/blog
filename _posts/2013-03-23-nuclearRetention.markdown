@@ -98,11 +98,11 @@ The remaining closures at Vermont Yankee and the Kewaunee Power Station are dist
 
 While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 2, below.
 
+### Figure 3. State Legislative Incentives and Nuclear Power Plants ###
+![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureThree.png)
+
 State incentives that encourage nuclear power vary between the states. Some states offer tax benefits to nuclear power; Alabama does not tax nuclear fuel, and Kansas exempts new nuclear generators from property taxes. Kansas also allows for the cost recovery of nuclear studies undertaken in order to examine the construction of a new nuclear plant. Indiana and Ohio include nuclear energy in their clean energy and renewable energy definitions. Finally, Georgia, Florida, and South Carolina have each amended their regulatory processes to ease the cost recovery process for new nuclear plants.
 
 The states that have adopted nuclear disincentives have largely done so on the requirement that a waste disposal solution is discovered. California, Connecticut, Illinois, Maine, Oregon, West Virginia, and Wisconsin will not allow new nuclear to be built until viable waste disposal options are found. Wisconsin also requires that a new nuclear plant prove that it is economically feasible. Hawaii, Massachusetts, Rhode Island, and Vermont require legislative approval for new nuclear plants, while Maine, Massachusetts, and Oregon require voter approval. Minnesota has banned new nuclear plants.
-
-### Figure 3. State Legislative Incentives and Nuclear Power Plants ###
-![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureThree.png)
 
 Few of these policies affect already-constructed plants. Alabama, Indiana, and Ohio do offer incentives to running plants, but each of the negative incentives is placed on potential new nuclear plants. Nonetheless, three of the four recent closures have occurred in states that have adopted negative nuclear incentives. The final closure occurred in Florida, whose policies have encouraged new nuclear development. New nuclear appears to be linked to such positive incentives, as two of the three plants under construction are located in states with those policies.
