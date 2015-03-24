@@ -61,6 +61,9 @@ ISO-NE reported that its reliability studies had concluded “that the regional 
 
 Unit 1 of SONGS generated 456 MW and was retired in 1992, while Units 2 and 3 generated 1127 MW each before their retirement. San Diego County is the largest county to see a nuclear plant shut down; SONGS employed just 1,500 of the county’s roughly 1.16 million employees.
 
+### Figure 4. San Onofre Timeline ###
+![San Onofre Timeline](img/nuclearRetention/figureFour.png)
+
 SCE submitted a “Return to Service Report” to the NRC for Unit 2 in 2012, in which SCE proposed operational limitations in order to restart the reactor. The Atomic Safety and Licensing Board ruled that such changes would constitute a new license amendment, and SCE chose shortly thereafter to instead retire both Units 2 and 3.
 
 The California Public Utilities Commission (CAPUC) began Investigation 12-10-013 to determine how the impact of the plant’s shutdown and decommissioning would affect rates in October 2012. In November 2014, a settlement was reached that allowed for ratepayer refunds and credits of roughly $1.45 billion. SCE also agreed to stop collection of its Steam Generator Replacement Project and to refund the collected costs of that project, while agreeing to a lower rate of return on prematurely retired assets. Ratepayers still paid for approximately $3.3 billion of power purchases associated with SONGS’ outage and the undepreciated net investment in SONGS assets. Further decommissioning costs will be recovered through the CAPUC’s Nuclear Decommissioning Cost Triennial Proceeding, Application No. A.12-12-012. As of November 18th, 2014, a proposed decision would approve roughly $4.1 billion for decommissioning SONGS 2 and 3 in that application.
@@ -101,8 +104,8 @@ The remaining closures at Vermont Yankee and the Kewaunee Power Station are dist
 
 While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 3, below.
 
-### Figure 4. State Legislative Incentives and Nuclear Power Plants ###
-![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureFour.png)
+### Figure 5. State Legislative Incentives and Nuclear Power Plants ###
+![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureFive.png)
 
 State incentives that encourage nuclear power vary between the states. Some states offer tax benefits to nuclear power; Alabama does not tax nuclear fuel, and Kansas exempts new nuclear generators from property taxes. Kansas also allows for the cost recovery of nuclear studies undertaken in order to examine the construction of a new nuclear plant. Indiana and Ohio include nuclear energy in their clean energy and renewable energy definitions. Finally, Georgia, Florida, and South Carolina have each amended their regulatory processes to ease the cost recovery process for new nuclear plants.
 
