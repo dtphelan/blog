@@ -9,14 +9,23 @@ comments:   true
 ---
 Nuclear power has historically provided baseload generation for the United States’ electric grid, and supplied roughly 10% of the country’s energy generation in 2013. Nuclear offers baseload power with low greenhouse gas emissions and low fuel costs, but issues with high up-front costs and, increasingly, low wholesale electricity costs have limited the expansion of nuclear power. Existing plants that must compete with the price of natural gas in restructured markets have, in some cases, opted to shut down rather than operate at losses. The price pressures on nuclear power have placed the future of the resource under threat.
 
-Figure 1 offers a summary of the American nuclear fleet and the energy markets that they operate in. Blue states are those with restructured, or deregulated, markets, and orange states are those that deregulated, but later suspended restructuring. The grey dots show operating nuclear plants, while the red dots show recently closed nuclear plants and green dots show nuclear plants under construction.
+From January 2006 to January 2012, the average wholesale price of electricity in the MISO and PJM markets decreased from around $30-$40/MWh to roughly $20-$30/MWh, as seen in Figure 1 below. This has lowered the “quark spread”-the difference between the wholesale price of electricity and the cost of nuclear fuel.
 
-![Electricity Restructuring and Nuclear Power Plants](img/nuclearRetention/figureOne.png)
+### Figure 1. Average Monthly Quark Spreads for the MISO and PJM Markets ###
+![Average Monthly Quark Spreads for the MISO and PJM Markets](img/nuclearRention/figureOne.png)
+
+It is important to note that the average fuel price, as seen in Figure 1, is not representative of all of the costs that face a nuclear generator. Nuclear plants are also seeing rising Operations and Maintenance (O&M) costs. The nuclear fleet is no longer new technology; the average age of a nuclear plant in the United States is 34 years, and 58 plants have applied for license extensions that would allow them to operate past their initial 40-year license period. Estimates have found a $10/MWh increase in non-fuel O&M costs over the 2006 – 2012 time period. The combined factors of lowering electricity prices and increasing costs leave little margin for profit at plants operating in these markets.
+
+Figure 2 offers a summary of the American nuclear fleet and the energy markets that they operate in. Blue states are those with restructured, or deregulated, markets, and orange states are those that deregulated, but later suspended restructuring. The grey dots show operating nuclear plants, while the red dots show recently closed nuclear plants and green dots show nuclear plants under construction.
+
+### Figure 2. Electricity Restructuring and Nuclear Power Plants ###
+![Electricity Restructuring and Nuclear Power Plants](img/nuclearRetention/figureTwo.png)
 
 29 nuclear plants operate in restructured markets, and a further 5 have been part of a restructured market in the past. 24 plants operate in regulated markets. Three additional are under construction, each in regulated states. Closures have taken place in one formerly deregulated market and three regulated states, although two of those three plants were operating as merchant generators that sold their power in nearby electric markets. Estimations of “at-risk” plants vary, but most at-risk plants currently operate in restructured markets.
 
 Nuclear power also offers economic support to local economies, and those impacts are perhaps more immediate to their communities than a closure’s impacts on the larger energy markets. Nuclear plants offer high-paying jobs that, in some cases, represent a large part of a community’s payroll. Table 1 shows economic data regarding the communities in which a nuclear plant has been closed, which varies from the small communities of Windham County, Vermont and Kewaunee County, Wisconsin, to the populous San Diego County, California.
 
+### Table 1. Counties with Closed Nuclear Plants ###
 ![Counties with Closed Nuclear Plants](img/nuclearRetention/tableOne.png)
 
 The economic data surrounding the closure of nuclear plants is unclear at this time. The Census records economic data every five years, with the last collection occurring in 2012. Three of the four plants that have recently closed were shut down after 2012’s economic census, and we are therefore unable to assess any county or state changes in economic conditions. Further, even with before-and-after statistics, as with the Crystal River Nuclear Plant, it is difficult to say what direct impact the plant closure itself had on the surrounding economy. Greater macroeconomic conditions, such as the Great Recession, are more likely to have caused economic changes within these communities.
@@ -93,6 +102,7 @@ State incentives that encourage nuclear power vary between the states. Some stat
 
 The states that have adopted nuclear disincentives have largely done so on the requirement that a waste disposal solution is discovered. California, Connecticut, Illinois, Maine, Oregon, West Virginia, and Wisconsin will not allow new nuclear to be built until viable waste disposal options are found. Wisconsin also requires that a new nuclear plant prove that it is economically feasible. Hawaii, Massachusetts, Rhode Island, and Vermont require legislative approval for new nuclear plants, while Maine, Massachusetts, and Oregon require voter approval. Minnesota has banned new nuclear plants.
 
-![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureTwo.png)
+### State Legislative Incentives and Nuclear Power Plants ###
+![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureThree.png)
 
-Few of these policies affect already-constructed plants. Alabama, Indiana, and Ohio do offer incentives to running plants, but each of the negative incentives are placed on potential new nuclear plants. Nonetheless, three of the four recent closures have occurred in states that have adopted negative nuclear incentives. The final closure occurred in Florida, whose policies have encouraged new nuclear development. New nuclear appears to be linked to such positive incentives, as two of the three plants under construction are located in states with those policies.
+Few of these policies affect already-constructed plants. Alabama, Indiana, and Ohio do offer incentives to running plants, but each of the negative incentives is placed on potential new nuclear plants. Nonetheless, three of the four recent closures have occurred in states that have adopted negative nuclear incentives. The final closure occurred in Florida, whose policies have encouraged new nuclear development. New nuclear appears to be linked to such positive incentives, as two of the three plants under construction are located in states with those policies.
