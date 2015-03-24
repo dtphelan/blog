@@ -48,7 +48,8 @@ Vermont Yankee began operation in 1972, and employed 625 people when its closure
 
 The debate regarding Yankee’s certificate of good was contentious, as was the plant’s history. After the plant applied for its license extension with NRC, a series of events called into question the safety of the plant. A cooling tower cell collapsed in 2007, radioactive contamination was discovered in underground pipes in 2009, and radioactive isotopes were discovered in nearby drinking water in 2010. Protestors attached their concerns to these events, and statements from Vermont state officials put pressure on NRC’s license approval process.
 
-![Vermont Yankee Timeline](img/nuclearRetention/vermontYankeeTimeline.png)
+### Figure 3. Vermont Yankee Timeline ###
+![Vermont Yankee Timeline](img/nuclearRetention/figureThree.png)
 
 NRC, however, approved the plant’s renewal in March 2011, and Entergy, the plant’s owner, subsequently sued the State of Vermont in April 2011. The appeal resulted in the reversal of the Senate’s measure because the Senate measure was focused on the safety aspects of Vermont Yankee. The Atomic Energy Act of 1946 makes safety a federal responsibility, and the state has no jurisdiction over the safety of nuclear power plants. Vermont Yankee resumed its operations after the VTPSB entered into an MOU with Entergy in February 2013, but, in August 2013, Entergy announced that the plant would close due to economic considerations. Entergy cited low power prices, high cost structure, and wholesale electricity market design flaws in its announcement of the closure. As conditions of Entergy’s MOU with the VTPSB, Entergy agreed to pay $10 million to promote economic development in Windham County, ensure site restoration, and pay $5.2 million for clean energy development.
 
@@ -100,8 +101,8 @@ The remaining closures at Vermont Yankee and the Kewaunee Power Station are dist
 
 While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 3, below.
 
-### Figure 3. State Legislative Incentives and Nuclear Power Plants ###
-![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureThree.png)
+### Figure 4. State Legislative Incentives and Nuclear Power Plants ###
+![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureFour.png)
 
 State incentives that encourage nuclear power vary between the states. Some states offer tax benefits to nuclear power; Alabama does not tax nuclear fuel, and Kansas exempts new nuclear generators from property taxes. Kansas also allows for the cost recovery of nuclear studies undertaken in order to examine the construction of a new nuclear plant. Indiana and Ohio include nuclear energy in their clean energy and renewable energy definitions. Finally, Georgia, Florida, and South Carolina have each amended their regulatory processes to ease the cost recovery process for new nuclear plants.
 
