@@ -96,7 +96,7 @@ The remaining closures at Vermont Yankee and the Kewaunee Power Station are dist
 
 ## State Legislatures ##
 
-While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 2, below.
+While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 3, below.
 
 ### Figure 3. State Legislative Incentives and Nuclear Power Plants ###
 ![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureThree.png)
