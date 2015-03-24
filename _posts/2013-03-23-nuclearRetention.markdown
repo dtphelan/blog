@@ -40,7 +40,7 @@ The four plants that have been closed since 2012 have distinct, yet similar, sto
 
 Here, we will describe the conditions surrounding each plant’s closure, including any attempts made by responsible regulatory bodies to examine the plant’s future.
 
-<div id="vtYankee">## Vermont Yankee ##</div>
+##<div id="vtYankee"> Vermont Yankee </div>##
 
 ![Vermont Yankee](img/nuclearRetention/vermontYankee.jpg){: .right-image }The Vermont Yankee nuclear power plant operated as a merchant generator in Vernon, Vermont. The plant generated 604 MW, and supplied roughly 4% of New England’s total annual electricity supply. Vermont Yankee shut down on December 29, 2014.
 
