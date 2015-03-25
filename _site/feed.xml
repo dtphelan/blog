@@ -5,8 +5,8 @@
     <description>A blog, with blogging things</description>
     <link>http://mrandmrsphelan.com/blog/</link>
     <atom:link href="http://mrandmrsphelan.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Mar 2015 09:14:55 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2015 09:14:55 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2015 13:22:30 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 13:22:30 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -35,12 +35,12 @@ ___
 
 {% if page.custom_js %}
   {% for js_file in page.custom_js %}
-  &amp;lt;script src=&#39;/javascripts/{{ js_file }}.js&#39; type=&quot;text/javascript&quot;&amp;gt;&amp;lt;/script&amp;gt;
+  &amp;lt;script src=&#39;/js/{{ js_file }}.js&#39; type=&quot;text/javascript&quot;&amp;gt;&amp;lt;/script&amp;gt;
   {% endfor %}
 {% endif %}
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;This pulls in custom.css and custom.js to your post. Excellent.&lt;/p&gt;
+&lt;p&gt;Customize the path to your blog’s preferred structure, and this pulls in custom.css and custom.js to your post. Excellent.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Mar 2015 04:51:00 -0400</pubDate>
         <link>http://mrandmrsphelan.com/blog/jekyllCustomAssets.html</link>
@@ -51,7 +51,7 @@ ___
     
       <item>
         <title>Nuclear Retention</title>
-        <description>&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/nuclearPower.png&quot; alt=&quot;Nuclear Power&quot; class=&quot;right-image&quot; /&gt;Nuclear power has historically provided baseload generation for the United States’ electric grid, and supplied roughly 19% of the country’s energy generation in 2013. Nuclear offers baseload power with low greenhouse gas emissions and low fuel costs, but issues with high up-front costs and, increasingly, low wholesale electricity costs have limited the expansion of nuclear power. Existing plants that must compete with the price of natural gas in restructured markets have, in some cases, opted to shut down rather than operate at losses. The price pressures on nuclear power have placed the future of the resource under threat.&lt;/p&gt;
+        <description>&lt;p&gt;Nuclear power has historically provided baseload generation for the United States’ electric grid, and supplied roughly 19% of the country’s energy generation in 2013. Nuclear offers baseload power with low greenhouse gas emissions and low fuel costs, but issues with high up-front costs and, increasingly, low wholesale electricity costs have limited the expansion of nuclear power. Existing plants that must compete with the price of natural gas in restructured markets have, in some cases, opted to shut down rather than operate at losses. The price pressures on nuclear power have placed the future of the resource under threat.&lt;/p&gt;
 
 &lt;p&gt;From January 2006 to January 2012, the average wholesale price of electricity in the MISO and PJM markets decreased from around $30-$40/MWh to roughly $20-$30/MWh, as seen in Figure 1 below. This has lowered the “quark spread”-the difference between the wholesale price of electricity and the cost of nuclear fuel.&lt;/p&gt;
 
@@ -86,27 +86,20 @@ ___
 
 &lt;h2 id=&quot;vermont-yankee&quot;&gt;Vermont Yankee&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/vermontYankee.jpg&quot; alt=&quot;Vermont Yankee&quot; class=&quot;right-image&quot; /&gt;The Vermont Yankee nuclear power plant operated as a merchant generator in Vernon, Vermont. The plant generated 604 MW, and supplied roughly 4% of New England’s total annual electricity supply. Vermont Yankee shut down on December 29, 2014.&lt;/p&gt;
+&lt;p&gt;The Vermont Yankee nuclear power plant operated as a merchant generator in Vernon, Vermont. The plant generated 604 MW, and supplied roughly 4% of New England’s total annual electricity supply. Vermont Yankee shut down on December 29, 2014.&lt;/p&gt;
 
 &lt;p&gt;Vermont Yankee began operation in 1972, and employed 625 people when its closure was announced. The plant’s payroll was roughly $58 million. A report submitted to the Vermont Public Service Board (VTPSB) estimated that keeping the plant running through 2032 would create an average of 1,088 more employees in Windham County, and 260 more employees across the rest of Vermont. The plant applied for a license extension with NRC in January 2006. In 2010, the Vermont State Senate prevented VTPSB from considering the continued operation of the plant. According to Greenpeace, Vermont is the only state in which the legislature is able to vote on shutting down a plant. The legislature must extend a “certificate of good” before a plant can operate, and the Senate did not approve Vermont Yankee’s extension.&lt;/p&gt;
 
-&lt;p&gt;The debate regarding Yankee’s certificate of good was contentious, as was the plant’s history. After the plant applied for its license extension with NRC, a series of events called into question the safety of the plant. A cooling tower cell collapsed in 2007, radioactive contamination was discovered in underground pipes in 2009, and radioactive isotopes were discovered in nearby drinking water in 2010. Protestors attached their concerns to these events, and statements from Vermont state officials put pressure on NRC’s license approval process.&lt;/p&gt;
-
-&lt;h3 id=&quot;figure-3-vermont-yankee-timeline&quot;&gt;Figure 3. Vermont Yankee Timeline&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/figureThree.png&quot; alt=&quot;Vermont Yankee Timeline&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/yankeeTimeline.png&quot; alt=&quot;Vermont Yankee Timeline&quot; class=&quot;right-image&quot; /&gt;The debate regarding Yankee’s certificate of good was contentious, as was the plant’s history. After the plant applied for its license extension with NRC, a series of events called into question the safety of the plant. A cooling tower cell collapsed in 2007, radioactive contamination was discovered in underground pipes in 2009, and radioactive isotopes were discovered in nearby drinking water in 2010. Protestors attached their concerns to these events, and statements from Vermont state officials put pressure on NRC’s license approval process.&lt;/p&gt;
 
 &lt;p&gt;NRC, however, approved the plant’s renewal in March 2011, and Entergy, the plant’s owner, subsequently sued the State of Vermont in April 2011. The appeal resulted in the reversal of the Senate’s measure because the Senate measure was focused on the safety aspects of Vermont Yankee. The Atomic Energy Act of 1946 makes safety a federal responsibility, and the state has no jurisdiction over the safety of nuclear power plants. Vermont Yankee resumed its operations after the VTPSB entered into an MOU with Entergy in February 2013, but, in August 2013, Entergy announced that the plant would close due to economic considerations. Entergy cited low power prices, high cost structure, and wholesale electricity market design flaws in its announcement of the closure. As conditions of Entergy’s MOU with the VTPSB, Entergy agreed to pay $10 million to promote economic development in Windham County, ensure site restoration, and pay $5.2 million for clean energy development.&lt;/p&gt;
 
 &lt;p&gt;ISO-NE reported that its reliability studies had concluded “that the regional power grid could be operated reliably without Vermont Yankee.” Earlier studies had called this fact into question, but ISO-NE’s 2012 reliability analysis concluded that new system conditions, such as development of new resources, completion of transmission upgrades, and energy efficiency measures, made Vermont Yankee’s retirement unlikely to affect system reliability. ISO-NE expressed concern that the plant’s retirement would lead to a decrease in resource diversity, but noted that it does not have the authority to prevent a resource from retiring.&lt;/p&gt;
 
 &lt;h2 id=&quot;san-onofre-nuclear-generating-station&quot;&gt;San Onofre Nuclear Generating Station&lt;/h2&gt;
+&lt;p&gt;The San Onofre Nuclear Generating Station (SONGS) was owned by Southern California Edison (SCE), and included two reactors with a maximum capacity of 1127 MW each. SONGS is being decommissioned due to damage found in the plant’s steam generators. One reactor, Unit 3, experienced a radioactive leak in January 2012. The reactor was shut down, and inspections found premature wear on replacement steam generators installed in 2010 and 2011 in Unit 2 and Unit 3. The NRC ordered that Unit 2, already shut down for refueling and replacement of the reactor’s vessel head, and Unit 3 were not to be restarted until the cause of the wear was determined. SCE has since begun the decommissioning process for the plant.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/sanOnofre.jpg&quot; alt=&quot;San Onofre&quot; class=&quot;right-image&quot; /&gt;The San Onofre Nuclear Generating Station (SONGS) was owned by Southern California Edison (SCE), and included two reactors with a maximum capacity of 1127 MW each. SONGS is being decommissioned due to damage found in the plant’s steam generators. One reactor, Unit 3, experienced a radioactive leak in January 2012. The reactor was shut down, and inspections found premature wear on replacement steam generators installed in 2010 and 2011 in Unit 2 and Unit 3. The NRC ordered that Unit 2, already shut down for refueling and replacement of the reactor’s vessel head, and Unit 3 were not to be restarted until the cause of the wear was determined. SCE has since begun the decommissioning process for the plant.&lt;/p&gt;
-
-&lt;p&gt;Unit 1 of SONGS generated 456 MW and was retired in 1992, while Units 2 and 3 generated 1127 MW each before their retirement. San Diego County is the largest county to see a nuclear plant shut down; SONGS employed just 1,500 of the county’s roughly 1.16 million employees.&lt;/p&gt;
-
-&lt;h3 id=&quot;figure-4-san-onofre-timeline&quot;&gt;Figure 4. San Onofre Timeline&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/figureFour.png&quot; alt=&quot;San Onofre Timeline&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/sanOnofreTimeline.png&quot; alt=&quot;San Onofre Timeline&quot; class=&quot;right-image&quot; /&gt;Unit 1 of SONGS generated 456 MW and was retired in 1992, while Units 2 and 3 generated 1127 MW each before their retirement. San Diego County is the largest county to see a nuclear plant shut down; SONGS employed just 1,500 of the county’s roughly 1.16 million employees.&lt;/p&gt;
 
 &lt;p&gt;SCE submitted a “Return to Service Report” to the NRC for Unit 2 in 2012, in which SCE proposed operational limitations in order to restart the reactor. The Atomic Safety and Licensing Board ruled that such changes would constitute a new license amendment, and SCE chose shortly thereafter to instead retire both Units 2 and 3.&lt;/p&gt;
 
