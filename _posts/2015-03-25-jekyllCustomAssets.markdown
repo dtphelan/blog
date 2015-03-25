@@ -31,9 +31,9 @@ Then, wherever your Head is:
 
     {% if page.custom_js %}
       {% for js_file in page.custom_js %}
-      <script src='/javascripts/{{ js_file }}.js' type="text/javascript"></script>
+      <script src='/js/{{ js_file }}.js' type="text/javascript"></script>
       {% endfor %}
     {% endif %}
 {% endraw %}
 
-This pulls in custom.css and custom.js to your post. Excellent.
+Customize the path to your blog's preferred structure, and this pulls in custom.css and custom.js to your post. Excellent.
