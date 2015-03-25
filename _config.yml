@@ -8,9 +8,15 @@ url: "http://mrandmrsphelan.com"
 twitter_username: dtphelan
 github_username:  dtphelan
 facebook_username:  dan.phelan.14
+collections:
+  - reports
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
 highlighter: pygments
 permalink: none
 paginate: 5

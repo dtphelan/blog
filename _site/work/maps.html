@@ -68,6 +68,10 @@
                     <a href="/blog/about.html">About</a>
                 </li>
                 
+                <li>
+                    <a href="/blog/reports.html">Reports</a>
+                </li>
+                
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -103,7 +107,7 @@
 
 <p>NRRI has been working with NARUC on these. They’re for use by commissioners in a presentation describing how commissions have commented on the <a href="http://www2.epa.gov/carbon-pollution-standards/what-epa-doing">EPA’s proposed 111(d) rules</a>. NRRI and NARUC have been going through the comments filed by each of the states, and have been looking for trends. One of the major issues between our organizations has been the inherently different nature of NRRI. We’re a 501c(3), while they’re a 501c(4). Layman’s terms, they can do political advocacy and we can’t. So, we’ve had to spend a lot of effort making sure that the maps aren’t politically charged, while NARUC may have some points in mind that it would like to make. Ultimately, NRRI took its name off of the maps, but I’m not going to stop myself from writing about them.</p>
 
-<p><img src="/blog/img/maps/mapOne.jpg" alt="Base Year" />
+<p><img src="/blog/img/maps/mapOne.jpg" alt="Base Year" /><br />
 <span class="caption text-muted"></span></p>
 
 <p>The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There’s a file for “background” images that I use as patterns, like so in the <code>&lt;defs&gt;</code> section of the SVG:</p>
@@ -153,7 +157,7 @@
 
 <p>Another map that originally had been two maps. This seems like a good time to explain myself on font choices: yes, I went with Helvetica. A bit passé for the cool-kid crowd, but being ahead of the curve really isn’t something I’m concerned about with this audience. It’s not Times New Roman, so I’m expecting my audience to be blown away by that mere fact. Helvetica looks modern without being threatening to a less technologically-adept crowd.</p>
 
-<p><img src="/blog/img/maps/mapFour.jpg" alt="Interim Goal and Stringency of State Goal" />
+<p><img src="/blog/img/maps/mapFour.jpg" alt="Interim Goal and Stringency of State Goal" /><br />
 <span class="caption text-muted"></span></p>
 
 <p>This is the style of map that had been proposed for both Early Action and Interim Goal comments. I’m not certain why reviewers only wanted this particular one, but that’s what they said. You can pretty easily identify the issues with this map. First off, the stringency of state goals appears to have almost no correlation with states that commented on interim goals. So, why are they being mapped together? Personally, no clue. If you want two variables mapped together, I’d assume it’s because they have some sort of relationship. This map really doesn’t tell a story.</p>
