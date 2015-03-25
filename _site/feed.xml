@@ -5,9 +5,368 @@
     <description>A blog, with blogging things</description>
     <link>http://mrandmrsphelan.com/blog/</link>
     <atom:link href="http://mrandmrsphelan.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 13 Feb 2015 16:28:25 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2015 16:28:25 -0500</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2015 08:27:00 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 08:27:00 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Nuclear Retention</title>
+        <description>&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/nuclearPower.png&quot; alt=&quot;Nuclear Power&quot; class=&quot;right-image&quot; /&gt;Nuclear power has historically provided baseload generation for the United States’ electric grid, and supplied roughly 19% of the country’s energy generation in 2013. Nuclear offers baseload power with low greenhouse gas emissions and low fuel costs, but issues with high up-front costs and, increasingly, low wholesale electricity costs have limited the expansion of nuclear power. Existing plants that must compete with the price of natural gas in restructured markets have, in some cases, opted to shut down rather than operate at losses. The price pressures on nuclear power have placed the future of the resource under threat.&lt;/p&gt;
+
+&lt;p&gt;From January 2006 to January 2012, the average wholesale price of electricity in the MISO and PJM markets decreased from around $30-$40/MWh to roughly $20-$30/MWh, as seen in Figure 1 below. This has lowered the “quark spread”-the difference between the wholesale price of electricity and the cost of nuclear fuel.&lt;/p&gt;
+
+&lt;h3 id=&quot;figure-1-average-monthly-quark-spreads-for-the-miso-and-pjm-markets&quot;&gt;Figure 1. Average Monthly Quark Spreads for the MISO and PJM Markets&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/figureOne.png&quot; alt=&quot;Average Monthly Quark Spreads for the MISO and PJM Markets&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is important to note that the average fuel price, as seen in Figure 1, is not representative of all of the costs that face a nuclear generator. Nuclear plants are also seeing rising Operations and Maintenance (O&amp;amp;M) costs. The nuclear fleet is no longer new technology; the average age of a nuclear plant in the United States is 34 years, and 58 plants have applied for license extensions that would allow them to operate past their initial 40-year license period. Estimates have found a $10/MWh increase in non-fuel O&amp;amp;M costs over the 2006 – 2012 time period. The combined factors of lowering electricity prices and increasing costs leave little margin for profit at plants operating in these markets.&lt;/p&gt;
+
+&lt;p&gt;Figure 2 offers a summary of the American nuclear fleet and the energy markets that they operate in. Blue states are those with restructured, or deregulated, markets, and orange states are those that deregulated, but later suspended restructuring. The grey dots show operating nuclear plants, while the red dots show recently closed nuclear plants and green dots show nuclear plants under construction.&lt;/p&gt;
+
+&lt;h3 id=&quot;figure-2-electricity-restructuring-and-nuclear-power-plants&quot;&gt;Figure 2. Electricity Restructuring and Nuclear Power Plants&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/figureTwo.png&quot; alt=&quot;Electricity Restructuring and Nuclear Power Plants&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;29 nuclear plants operate in restructured markets, and a further 5 have been part of a restructured market in the past. 24 plants operate in regulated markets. Three additional are under construction, each in regulated states. Closures have taken place in one formerly deregulated market and three regulated states, although two of those three plants were operating as merchant generators that sold their power in nearby electric markets. Estimations of “at-risk” plants vary, but most at-risk plants currently operate in restructured markets.&lt;/p&gt;
+
+&lt;p&gt;Nuclear power also offers economic support to local economies, and those impacts are perhaps more immediate to their communities than a closure’s impacts on the larger energy markets. Nuclear plants offer high-paying jobs that, in some cases, represent a large part of a community’s payroll. Table 1 shows economic data regarding the communities in which a nuclear plant has been closed, which varies from the small communities of Windham County, Vermont and Kewaunee County, Wisconsin, to the populous San Diego County, California.&lt;/p&gt;
+
+&lt;h3 id=&quot;table-1-counties-with-closed-nuclear-plants&quot;&gt;Table 1. Counties with Closed Nuclear Plants&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/tableOne.png&quot; alt=&quot;Counties with Closed Nuclear Plants&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The economic data surrounding the closure of nuclear plants is unclear at this time. The Census records economic data every five years, with the last collection occurring in 2012. Three of the four plants that have recently closed were shut down after 2012’s economic census, and we are therefore unable to assess any county or state changes in economic conditions. Further, even with before-and-after statistics, as with the Crystal River Nuclear Plant, it is difficult to say what direct impact the plant closure itself had on the surrounding economy. Greater macroeconomic conditions, such as the Great Recession, are more likely to have caused economic changes within these communities.&lt;/p&gt;
+
+&lt;p&gt;Unemployment figures have also yet to be released for most of these counties. We have presented unemployment data for the year before closure and year after closure, but the Bureau of Labor Statistics (BLS) has not released 2014 annual data for these counties at this time. Once BLS releases that data, a better picture of the economic impact of these closures may develop.&lt;/p&gt;
+
+&lt;p&gt;Where possible, we have collected and noted the number of employees and payroll at each closed nuclear plant. In some cases, these employees account for as much as 12% of the county’s employment, while in others, as little as 0.13%. Estimations of economic impact presented to regulatory bodies, such as state utility commissions, are also noted when available in the following section.&lt;/p&gt;
+
+&lt;h1 id=&quot;case-studies&quot;&gt;Case Studies&lt;/h1&gt;
+
+&lt;p&gt;The four plants that have been closed since 2012 have distinct, yet similar, stories behind their closure. Two were shut down for explicit economic reasons; their operators both cited the low cost of competing resources as the primary reason for the closure. One of these plants also faced vociferous political outcry while its license renewal was considered. The other two plants saw technical malfunctions that were extremely costly. After attempts to repair these plants, their owners chose to close the plants rather than bear the repair costs.&lt;/p&gt;
+
+&lt;p&gt;Here, we will describe the conditions surrounding each plant’s closure, including any attempts made by responsible regulatory bodies to examine the plant’s future.&lt;/p&gt;
+
+&lt;h2 id=&quot;vermont-yankee&quot;&gt;Vermont Yankee&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/vermontYankee.jpg&quot; alt=&quot;Vermont Yankee&quot; class=&quot;right-image&quot; /&gt;The Vermont Yankee nuclear power plant operated as a merchant generator in Vernon, Vermont. The plant generated 604 MW, and supplied roughly 4% of New England’s total annual electricity supply. Vermont Yankee shut down on December 29, 2014.&lt;/p&gt;
+
+&lt;p&gt;Vermont Yankee began operation in 1972, and employed 625 people when its closure was announced. The plant’s payroll was roughly $58 million. A report submitted to the Vermont Public Service Board (VTPSB) estimated that keeping the plant running through 2032 would create an average of 1,088 more employees in Windham County, and 260 more employees across the rest of Vermont. The plant applied for a license extension with NRC in January 2006. In 2010, the Vermont State Senate prevented VTPSB from considering the continued operation of the plant. According to Greenpeace, Vermont is the only state in which the legislature is able to vote on shutting down a plant. The legislature must extend a “certificate of good” before a plant can operate, and the Senate did not approve Vermont Yankee’s extension.&lt;/p&gt;
+
+&lt;p&gt;The debate regarding Yankee’s certificate of good was contentious, as was the plant’s history. After the plant applied for its license extension with NRC, a series of events called into question the safety of the plant. A cooling tower cell collapsed in 2007, radioactive contamination was discovered in underground pipes in 2009, and radioactive isotopes were discovered in nearby drinking water in 2010. Protestors attached their concerns to these events, and statements from Vermont state officials put pressure on NRC’s license approval process.&lt;/p&gt;
+
+&lt;h3 id=&quot;figure-3-vermont-yankee-timeline&quot;&gt;Figure 3. Vermont Yankee Timeline&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/figureThree.png&quot; alt=&quot;Vermont Yankee Timeline&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;NRC, however, approved the plant’s renewal in March 2011, and Entergy, the plant’s owner, subsequently sued the State of Vermont in April 2011. The appeal resulted in the reversal of the Senate’s measure because the Senate measure was focused on the safety aspects of Vermont Yankee. The Atomic Energy Act of 1946 makes safety a federal responsibility, and the state has no jurisdiction over the safety of nuclear power plants. Vermont Yankee resumed its operations after the VTPSB entered into an MOU with Entergy in February 2013, but, in August 2013, Entergy announced that the plant would close due to economic considerations. Entergy cited low power prices, high cost structure, and wholesale electricity market design flaws in its announcement of the closure. As conditions of Entergy’s MOU with the VTPSB, Entergy agreed to pay $10 million to promote economic development in Windham County, ensure site restoration, and pay $5.2 million for clean energy development.&lt;/p&gt;
+
+&lt;p&gt;ISO-NE reported that its reliability studies had concluded “that the regional power grid could be operated reliably without Vermont Yankee.” Earlier studies had called this fact into question, but ISO-NE’s 2012 reliability analysis concluded that new system conditions, such as development of new resources, completion of transmission upgrades, and energy efficiency measures, made Vermont Yankee’s retirement unlikely to affect system reliability. ISO-NE expressed concern that the plant’s retirement would lead to a decrease in resource diversity, but noted that it does not have the authority to prevent a resource from retiring.&lt;/p&gt;
+
+&lt;h2 id=&quot;san-onofre-nuclear-generating-station&quot;&gt;San Onofre Nuclear Generating Station&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/sanOnofre.jpg&quot; alt=&quot;San Onofre&quot; class=&quot;right-image&quot; /&gt;The San Onofre Nuclear Generating Station (SONGS) was owned by Southern California Edison (SCE), and included two reactors with a maximum capacity of 1127 MW each. SONGS is being decommissioned due to damage found in the plant’s steam generators. One reactor, Unit 3, experienced a radioactive leak in January 2012. The reactor was shut down, and inspections found premature wear on replacement steam generators installed in 2010 and 2011 in Unit 2 and Unit 3. The NRC ordered that Unit 2, already shut down for refueling and replacement of the reactor’s vessel head, and Unit 3 were not to be restarted until the cause of the wear was determined. SCE has since begun the decommissioning process for the plant.&lt;/p&gt;
+
+&lt;p&gt;Unit 1 of SONGS generated 456 MW and was retired in 1992, while Units 2 and 3 generated 1127 MW each before their retirement. San Diego County is the largest county to see a nuclear plant shut down; SONGS employed just 1,500 of the county’s roughly 1.16 million employees.&lt;/p&gt;
+
+&lt;h3 id=&quot;figure-4-san-onofre-timeline&quot;&gt;Figure 4. San Onofre Timeline&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/figureFour.png&quot; alt=&quot;San Onofre Timeline&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SCE submitted a “Return to Service Report” to the NRC for Unit 2 in 2012, in which SCE proposed operational limitations in order to restart the reactor. The Atomic Safety and Licensing Board ruled that such changes would constitute a new license amendment, and SCE chose shortly thereafter to instead retire both Units 2 and 3.&lt;/p&gt;
+
+&lt;p&gt;The California Public Utilities Commission (CAPUC) began Investigation 12-10-013 to determine how the impact of the plant’s shutdown and decommissioning would affect rates in October 2012. In November 2014, a settlement was reached that allowed for ratepayer refunds and credits of roughly $1.45 billion. SCE also agreed to stop collection of its Steam Generator Replacement Project and to refund the collected costs of that project, while agreeing to a lower rate of return on prematurely retired assets. Ratepayers still paid for approximately $3.3 billion of power purchases associated with SONGS’ outage and the undepreciated net investment in SONGS assets. Further decommissioning costs will be recovered through the CAPUC’s Nuclear Decommissioning Cost Triennial Proceeding, Application No. A.12-12-012. As of November 18th, 2014, a proposed decision would approve roughly $4.1 billion for decommissioning SONGS 2 and 3 in that application.&lt;/p&gt;
+
+&lt;p&gt;In 2013 and 2014 Local Capacity Technical Studies, CA-ISO included scenarios in which SONGS was and was not able to operate. In 2012, CA-ISO completed transmission and voltage support enhancements near SONGS, and additional mitigations are being implemented through summer 2015. However, CA-ISO noted that pressures caused by the SONGS outage and retirement “will require close attention during summer operations – particularly during critical peak days and in the event of wildfires that could potentially force transmission lines out of service.”&lt;/p&gt;
+
+&lt;h2 id=&quot;kewaunee-power-station&quot;&gt;Kewaunee Power Station&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/kewaunee.jpg&quot; alt=&quot;Kewaunee&quot; class=&quot;right-image&quot; /&gt;Dominion Resources shut down the Kewaunee Power Station in 2013. The 556 MW plant was purchased by Dominion in 2005, and had previously been owned by Wisconsin’s regulated Wisconsin Public Service. After the company sold the plant, the Public Service Commission of Wisconsin no longer had jurisdiction over the plant’s rates, and Dominion had to rely upon market prices for wholesale electric power to operate the plant.&lt;/p&gt;
+
+&lt;p&gt;In April 2011, Dominion announced that it planned to sell Kewaunee after it was unable to grow its Midwest nuclear fleet. Dominion claimed that Kewaunee’s PPAs were ending when wholesale electric prices were low, ensuring that new PPAs would make keeping the plant running uneconomic. In 2012, when no buyer was found for the plant, Dominion announced that it would close the plant. Dominion reserved $578 million for the plant’s decommissioning. Dominion employed 655 full time employees at Kewaunee Power Station, roughly 12% of Kewaunee County’s employees. Kewaunee County is the smallest county in which a nuclear plant has been closed, with roughly 20,500 residents.&lt;/p&gt;
+
+&lt;p&gt;After Dominion’s announcement of the closure, the Midcontinent Independent System Operator (MISO) conducted a reliability assessment and concluded that the closure of Kewaunee would not violate any reliability responsibilities. In February 2013, MISO announced that Kewaunee could be retired, and Dominion ceased generation at the plant in December 2013.&lt;/p&gt;
+
+&lt;h2 id=&quot;crystal-river-3-nuclear-plant&quot;&gt;Crystal River 3 Nuclear Plant&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/crystalRiver.jpg&quot; alt=&quot;Crystal River&quot; class=&quot;right-image&quot; /&gt;The Crystal River nuclear plant was an 842 MW station in Florida. The plant stopped running after a refueling outage in September 2009, when the plant’s containment structure was damaged while Progress Energy attempted to replace steam generators within the plant. The plant’s owners, Duke Energy, have decided to decommission the plant rather than undertake the costly repair process.&lt;/p&gt;
+
+&lt;p&gt;Duke acquired the plant in 2012, when they purchased Progress Energy. The plant was previously purchased from Florida Progress Corporation, and had been regulated by the Florida Public Service Commission (FLPSC) throughout its history. The FLPSC approved a $288 million refund to customers to account for the cost of replacement power needed due to the Crystal River outage.&lt;/p&gt;
+
+&lt;p&gt;Crystal River offered 600 full-time jobs, accounting for roughly 2.1% of Citrus County’s employment. Progress had estimated that the repairs would cost between $900 million and $1.3 billion, and had intended to pursue the repairs. Duke, however, estimated the repair cost as between $1.5 and $3.4 billion, and decided not to repair the plant. Duke has permanently shut down Crystal River, and the plant is currently transitioning to a Safe Storage (SAFSTOR) condition.&lt;/p&gt;
+
+&lt;p&gt;Florida is not a participant in an RTO, but the Florida Reliability Coordinating Council (FRCC) examines the reliability impacts of plant closures. FRCC found that, in conjunction with the retirement of two coal-fired units at the Crystal River site due to mercury and air toxics regulations, the closure of the Crystal River nuclear plant could have an impact on system reliability.  FRCC recommended extending the life of the coal plants in order to ensure system reliability in order to construct the needed transmission projects.&lt;/p&gt;
+
+&lt;h1 id=&quot;trends-and-differences-in-approaches&quot;&gt;Trends and Differences in Approaches&lt;/h1&gt;
+
+&lt;h2 id=&quot;state-utility-commissions&quot;&gt;State Utility Commissions&lt;/h2&gt;
+
+&lt;p&gt;In the majority of these cases, the role of a public service commission is limited. Restructuring has removed generating resources from the commission’s purview, and even a vertically integrated state does not offer its commission the jurisdiction to decide whether or not a specific resource runs. State regulators are, instead, economic regulators, who ensure that energy costs are just and reasonable. Without further mandate from state legislatures, commissions do not have the authority to prefer one particular resource.&lt;/p&gt;
+
+&lt;p&gt;The Crystal River plant was closed in the face of costly repairs, not economic pressures. The FLPSC worked to limit some of the plant’s impact on ratepayers by approving refunds, and Duke had to recover the cost of the damages through insurance claims, not rates. In this situation, repairing the plant would have required up to $3.4 billion of additional ratepayer money, which made keeping the plant in the rate base prohibitively expensive.&lt;/p&gt;
+
+&lt;p&gt;The San Onofre plant was also closed due to repair costs. Similarly to the FLPSC, the CAPUC ensured a refund to ratepayers. In both cases, ratepayer advocates have noted that the refunds are unlikely to cover all of the associated costs of purchased replacement power. However, returning the plants to service would also have been expensive for ratepayers. These closures speak to the age of the United States’ nuclear fleet, and the danger that time represents to nuclear power plants.&lt;/p&gt;
+
+&lt;p&gt;The remaining closures at Vermont Yankee and the Kewaunee Power Station are distinct because both plants were operating as merchant generators. These plants were subject to competition with wholesale electricity prices, and found themselves unable to operate in these economic conditions. This threat extends to other nuclear plants, particularly those who operate in deregulated energy markets. These plants have no mechanism for cost recovery from their states’ commissions, and must compete in a market that they insist does not properly compensate them for their advantages, such as reliability and carbon-free emissions.&lt;/p&gt;
+
+&lt;h2 id=&quot;state-legislatures&quot;&gt;State Legislatures&lt;/h2&gt;
+
+&lt;p&gt;While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 5, below.&lt;/p&gt;
+
+&lt;h3 id=&quot;figure-5-state-legislative-incentives-and-nuclear-power-plants&quot;&gt;Figure 5. State Legislative Incentives and Nuclear Power Plants&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;img/nuclearRetention/figureFive.png&quot; alt=&quot;State Legislative Incentives and Nuclear Power Plants&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;State incentives that encourage nuclear power vary between the states. Some states offer tax benefits to nuclear power; Alabama does not tax nuclear fuel, and Kansas exempts new nuclear generators from property taxes. Kansas also allows for the cost recovery of nuclear studies undertaken in order to examine the construction of a new nuclear plant. Indiana and Ohio include nuclear energy in their clean energy and renewable energy definitions. Finally, Georgia, Florida, and South Carolina have each amended their regulatory processes to ease the cost recovery process for new nuclear plants.&lt;/p&gt;
+
+&lt;p&gt;The states that have adopted nuclear disincentives have largely done so on the requirement that a waste disposal solution is discovered. California, Connecticut, Illinois, Maine, Oregon, West Virginia, and Wisconsin will not allow new nuclear to be built until viable waste disposal options are found. Wisconsin also requires that a new nuclear plant prove that it is economically feasible. Hawaii, Massachusetts, Rhode Island, and Vermont require legislative approval for new nuclear plants, while Maine, Massachusetts, and Oregon require voter approval. Minnesota has banned new nuclear plants.&lt;/p&gt;
+
+&lt;p&gt;Few of these policies affect already-constructed plants. Alabama, Indiana, and Ohio do offer incentives to running plants, but each of the negative incentives is placed on potential new nuclear plants. Nonetheless, three of the four recent closures have occurred in states that have adopted negative nuclear incentives. The final closure occurred in Florida, whose policies have encouraged new nuclear development. New nuclear appears to be linked to such positive incentives, as two of the three plants under construction are located in states with those policies.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2015 09:01:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/nuclearRetention.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/nuclearRetention.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Middling</title>
+        <description>&lt;p&gt;I feel like I’m thrashing around here, without accomplishing anything productive. I haven’t &lt;em&gt;done&lt;/em&gt; much of anything in the last few days. My weekend was dedicated to a midterm assignment; now that’s almost done and I’m “back” to the nuclear assignment. You might be aware of how frustrated I am with that one.&lt;/p&gt;
+
+&lt;p&gt;I suppose that means that, yes, we have made progress on the midterm. I have a few questions left, but it’s almost done. The impasse I’m at with nuclear retention seems to really affect my mood.&lt;/p&gt;
+
+&lt;p&gt;There’s a soft deadline on that for Wednesday, so I suppose I’ll have to buckle down on it for most of tomorrow. I’ll also work on wrapping up the midterm. Hopefully, progress will make me feel better.&lt;/p&gt;
+
+&lt;p&gt;Anyways.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Mar 2015 12:06:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/middling.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/middling.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Updates</title>
+        <description>&lt;p&gt;Where did that leave me? It has now been two-and-a-half weeks since I wrote something. That’s over twice as long as I had remained committed to writing. Well, let’s not get too discouraged. Back to it.&lt;/p&gt;
+
+&lt;p&gt;Today’s agenda is going to include reading about security threats, watching associated lectures, and finalizing my UTC security committee presentation. That’s happening on Thursday; I’m presenting my commission action report to telecom industry folks. I’m not envisioning a huge revision of my standard presentation, so that shouldn’t be too heavy a lift. Nonetheless, it’s 11 AM and I haven’t accomplished very much.&lt;/p&gt;
+
+&lt;p&gt;I’m also on-call for a discussion with the boss about our project on nuclear retention. Broadly, we’re going to be looking at how retention decisions have been made across the country. In the past five years, four nuclear plants have closed, and another faces the strong possibility of closure. The nuclear industry, as a whole, has taken this threat to heart, with a lot of hand-wringing about nuclear’s role in the future generating mix. NRRI has been approached to examine the issue, originally look at the role of state commissions in the closure process. However, we’ve come to the conclusion that there really isn’t much of a commission role in the decision.&lt;/p&gt;
+
+&lt;p&gt;Two of the closures came as a result of hardware failures that were too expensive to repair, and the other two have resulted from uneconomic conditions brought about largely by the low price of natural gas. Commissions have neither directed these generators to close, nor directed them to stay open. In restructured states, commissions have no control over generation, and it’s difficult to see how a commission could influence a merchant generator’s decision to shutter.&lt;/p&gt;
+
+&lt;p&gt;Further, it’s been difficult to examine the effects of closures. We wanted to look at economic and census data and see if any conclusions could be divined. Given that our sample size is a miserable four, we didn’t expect very much to come of such an analysis, but we found even less data to work with. The Census collects economic data every five years, with the last round occurring in 2012. Only one plant has data for both before and after closure, and controlling for the macroeconomic effects of the Great Recession is going to be difficult.&lt;/p&gt;
+
+&lt;p&gt;This leaves us with little to work on, and only a month to work on it. Clearly, I’m pretty down on the project. Most likely, the project ends up being anecdotal, however useful that is.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Mar 2015 07:19:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/work/updates.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/updates.html</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Paper Ideas</title>
+        <description>&lt;p&gt;I’m moving forward with an eye on Critical Infrastructure topics. Most of my ideas are cybersecurity-focused, but I’m trying to at least come up with some other options. The following “abstracts” are going out to commissioners and staff; their input will largely decide which one I focus on. These other topics may come up at some later time, but no promises.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-anatomy-of-a-cyber-attack-weaknesses-and-prevention-techniques-for-critical-infrastructure&quot;&gt;The Anatomy of a Cyber Attack: Weaknesses and Prevention Techniques for Critical Infrastructure&lt;/h1&gt;
+&lt;p&gt;Cyber attacks vary greatly in their targets and impacts. The critical infrastructure sectors face attacks that are both similar and dissimilar to other industries. The impacts of a cyber attack on an essential utility could be must greater than attacks on the average business, and the vulnerabilities that utilities must deal with are more varied and specialized. This report would describe some of the most common cyber attack vectors faced by the Critical Infrastructure sectors, methods for preventing and mitigating these attacks, and how these common attacks may impact a utility’s operations. The report would provide commissioners with better knowledge of the dangers that their regulated utilities may face.&lt;/p&gt;
+
+&lt;h1 id=&quot;critical-infrastructure-physical-security-state-and-federal-approaches&quot;&gt;Critical Infrastructure Physical Security: State and Federal Approaches&lt;/h1&gt;
+&lt;p&gt;Recent incidents in California, particularly the attack on the Metcalf substation, have placed increased focus on the physical security needs of critical infrastructure. Efforts have been made to ensure the protection of electric resources from physical attack, including NERC’s CIP-014-1 requirement, but these attacks will remain a threat. This report will provide an overview of the physical security requirements placed on energy, water, and telecommunication utilities by state and federal entities, and will examine the standards and best-practices that have been developed across these, and other, industries.&lt;/p&gt;
+
+&lt;h1 id=&quot;data-privacy-and-ratepayers&quot;&gt;Data Privacy and Ratepayers&lt;/h1&gt;
+&lt;p&gt;As utilities begin to implement AMI functions, they gain access to vast amounts of customer usage data. This type of granular information was previously unknowable for a utility, and allows utilities to offer innovative services to its ratepayers. Yet, the collection of this data also creates privacy concerns. Should utilities freely share this data with third-parties? What types of information should or shouldn’t be collected or shared? How can a ratepayer preserve his or her privacy? This report will examine these issues, and provide an overview of state and federal laws regarding the use of private data, the storage of that data, and breach disclosures.&lt;/p&gt;
+
+&lt;h1 id=&quot;designing-effective-cybersecurity-regulations-concepts-misconceptions-and-innovations&quot;&gt;Designing Effective Cybersecurity Regulations: Concepts, Misconceptions, and Innovations&lt;/h1&gt;
+&lt;p&gt;Regulators have made strong efforts to learn about cybersecurity in recent years, but still do not speak the same language of technical experts in the field. This report would examine fundamental cybersecurity concepts, such as redundancy, the limitations of security through obscurity, and the importance of principled regulations. As a whole, the report would provide regulators with the knowledge background needed to create effective cybersecurity regulation; that is, regulations that are reasonably met, technically knowledgable, and engender safer cybersecurity practices.&lt;/p&gt;
+
+&lt;h1 id=&quot;critical-infrastructure-information-sharing-programs&quot;&gt;Critical Infrastructure Information Sharing Programs&lt;/h1&gt;
+&lt;p&gt;Critical infrastructure utilities face physical and cyber threats from advanced actors. Private utilities do not have the resources needed to be constantly aware of developing threats; utilities must rely on information sharing initiatives with federal agencies and their private sector peers. This report will examine the information sharing initiatives currently available to utilities, proposals for improving the information sharing process, and how state regulators can get involved.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Feb 2015 05:09:00 -0500</pubDate>
+        <link>http://mrandmrsphelan.com/blog/work/paperIdeas.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/paperIdeas.html</guid>
+        
+        <category>topics</category>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>State regulators stir cybersecurity pot</title>
+        <description>&lt;p&gt;Some utilities in Washington state invite friendly hackers to try to break into critical utility systems to discover cybersecurity vulnerabilities. The Washington Utilities and Transportation Commission encourages but does not require such testing, and also conducts its own on-site audits of regulated companies’ security plans, according to E&amp;amp;E’s EnergyWire. Similarly Pennsylvania regulators require utilities to certify annually that their cyber and physical defenses are up to snuff. Even in sparsely populated Montana, regulators ask utilities to respond to a lengthy cybersecurity preparedness survey that NARUC prepared. The three examples illustrate how state regulators are responding to cybersecurity threats to utilities they regulate, documented in a recent report by the National Regulatory Research Institute. “Some states [are] super enthusiastic about it,” said Daniel Phelan, an NRRI research associate who prepared the report, told Energy Wire. Other states, he indicated, not so much.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.electricitypolicy.com/news/7768-state-regulators-stir-cybersecurity-pot&quot;&gt;Available at Electricity Daily.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Feb 2015 04:07:00 -0500</pubDate>
+        <link>http://mrandmrsphelan.com/blog/cyber/stateRegulators.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/cyber/stateRegulators.html</guid>
+        
+        <category>press</category>
+        
+        
+        <category>cyber</category>
+        
+      </item>
+    
+      <item>
+        <title>States search for strong cyberdefense strategies</title>
+        <description>&lt;p&gt;In Washington state, power utilities are expected to invite “good guy” hackers to try to break into critical systems to surface any cybersecurity vulnerabilities.&lt;/p&gt;
+
+&lt;p&gt;The state’s Utilities and Transportation Commission, which encourages but does not require such penetration testing, also conducts on-site audits of regulated companies’ security plans.&lt;/p&gt;
+
+&lt;p&gt;The Pennsylvania Public Utility Commission requires utilities to certify annually that their defenses are up to date, covering not only cyber threats, but also physical security, emergency response and continuity of operations. “I’m very happy to say that our utilities have taken it seriously,” said PUC Commissioner Pamela Witmer.&lt;/p&gt;
+
+&lt;p&gt;In Montana, regulators had utilities respond to a lengthy cybersecurity preparedness survey NARUC produced, but there haven’t been any follow-up actions.&lt;/p&gt;
+
+&lt;p&gt;“There’s really been no major conversation concerning [cybersecurity], so we just don’t have a lot of information,” said Joel Tierney, utility engineer and pipeline safety program manager for the state’s Public Service Commission. “It’s one of those things where it takes something to happen for people to get excited about it.”&lt;/p&gt;
+
+&lt;p&gt;The three examples illustrate a wide disparity in how state utility commissions are responding to cybersecurity threats to utilities they regulate, documented in a recent report by the National Regulatory Research Institute.&lt;/p&gt;
+
+&lt;p&gt;“Some states … they’re super enthusiastic about it,” said Daniel Phelan, a NRRI research associate who prepared the report summarizing state regulators’ responsibilities for cybersecurity. “Whereas other states, you struggle to find any information about what they’ve been doing.”&lt;/p&gt;
+
+&lt;p&gt;NRRI provides research services for members of the National Association of Regulatory Utility Commissioners, which put cybersecurity high on the agenda for its winter meeting this week in Washington, D.C. The NRRI survey was prepared for the Middle Atlantic Cybersecurity Collaborative, representing six commissions in that region.&lt;/p&gt;
+
+&lt;p&gt;Eighty percent of the U.S. electric power network is in the hands of distribution utilities regulated by states, municipal councils or cooperative boards. Only the interstate high-voltage grids are governed by the Federal Energy Regulatory Commission and its standards-setting organization, the North American Electric Reliability Corp. (NERC).&lt;/p&gt;
+
+&lt;p&gt;Phelan found that as of the end of last year, 11 commissions had completed rules or orders relating to cybersecurity: Arkansas, California, Connecticut, Maryland, Montana, New Jersey, New York, Oregon, Pennsylvania, Texas and Washington.&lt;/p&gt;
+
+&lt;p&gt;Eight other states, plus New York and Connecticut and the District of Columbia, had ongoing dockets on cybersecurity policy: Indiana, Kentucky, Louisiana, Massachusetts, Missouri, Rhode Island, South Carolina and Vermont.&lt;/p&gt;
+
+&lt;p&gt;Thirty-one states are not on either list.&lt;/p&gt;
+
+&lt;p&gt;The NRRI report and interviews with state officials reveal a patchwork of cyberthreat responses that causes some experts to question whether gaps exist in cybersecurity defenses of the nation’s distribution utilities.&lt;/p&gt;
+
+&lt;p&gt;Yochi Zakai, policy adviser for Washington’s UTC, says it “is only a matter of time” before a utility gets hacked in a big way, echoing a warning last year by Adm. Michael Rogers, head of the National Security Agency and the U.S. Cyber Command.&lt;/p&gt;
+
+&lt;p&gt;“If you’re aware of what’s going on in this field, no system is 100 percent secure, and you know we have to be very vigilant,” Zakai said. “So hopefully a company has a good system set up and then they are able to identify [the attack] right away and it’s not serious.”&lt;/p&gt;
+
+&lt;p&gt;Some experts and officials say the hit-and-miss response to the NRRI survey of state commissions likely understates the extent of cybersecurity threat response among both commissions and the distribution utilities they regulate. But Phelan said he knows of no comprehensive public assessments of cybersecurity defenses protecting electric power utilities.&lt;/p&gt;
+
+&lt;p&gt;How safe is the electricity distribution network? “We don’t know,” said one expert, who declined to speak on the issue for attribution. “We won’t know until something happens.”&lt;/p&gt;
+
+&lt;p&gt;Utility executives and industry and government cybersecurity officials say that the amount and quality of cybersecurity threat information that utilities can use and act on varies significantly.&lt;/p&gt;
+
+&lt;p&gt;Anthony Earley Jr., chairman and CEO of PG&amp;amp;E Corp., which runs California’s largest power utility, says that his company and some other large utilities have access to advanced cybersecurity forensics and defenses through a top-level federal-industry partnership, the Electricity Sub-sector Coordinating Council (ESCC).&lt;/p&gt;
+
+&lt;p&gt;“The utility sector and the federal government have a really good, cooperative relationship,” Earley said.&lt;/p&gt;
+
+&lt;p&gt;A new phase of the relationship followed the devastation of Superstorm Sandy in 2013, he added. It was clear that the impact of a severe cybersecurity attack could resemble the widespread damage and recovery obstacles the storm created.&lt;/p&gt;
+
+&lt;p&gt;“The federal government has very sophisticated tools for going into a system, monitoring it to see its vulnerabilities and whether it has been broken into. Utilities have been able to use these tools to help improve their systems because these tools are far more sophisticated than anything that is commercially available that we could get,” Earley said.&lt;/p&gt;
+
+&lt;p&gt;So far, several dozen utilities have chosen to pay a fee for access to the ESCC threat-sharing program Earley described, according to one industry expert. ESCC information on a more general level is shared with other utilities through a broader organization, the Energy Sector Information Sharing and Analysis Center – ES-ISAC – operated by NERC.&lt;/p&gt;
+
+&lt;p&gt;ES-ISAC employs technology from the Department of Homeland Security to share threat data. However, many utilities are not yet equipped to plug into the full capabilities ES-ISAC offers, officials say.&lt;/p&gt;
+
+&lt;p&gt;To strengthen participation in ES-ISAC, utilities around the country are being asked, “what do you need? What tools and capabilities do you want the ES-ISAC to have and provide so you can take actions to protect system,” one informed official explained.&lt;/p&gt;
+
+&lt;h1 id=&quot;states-experiment&quot;&gt;States experiment&lt;/h1&gt;
+
+&lt;p&gt;Many governors’ offices have also sought to sharpen their cyber readiness.&lt;/p&gt;
+
+&lt;p&gt;The National Governors Association created a Resource Center for State Cybersecurity in 2012 to assist state officials. A paper by NGA senior policy analyst Andrew Kambour last year said that Delaware, Maryland, Missouri, Rhode Island, Utah and Washington have created cybersecurity units within the National Guard. Kambour noted that Washington, home state to Microsoft Corp., specifically draws on the cybersecurity and technology expertise of guard members in their day jobs.&lt;/p&gt;
+
+&lt;p&gt;State utility commissions are designed as independent bodies not under a governor’s direct control. However, some governors have emphasized the need for strong partnerships with the private sector, including utilities, said Doug Robinson, executive director of the National Association of State Chief Information Officers, which advises state governments on cybersecurity issues.&lt;/p&gt;
+
+&lt;p&gt;“The best example of that is Michigan,” Robinson said. The state’s Public Service Commission is part of Gov. Rick Snyder’s governmentwide Michigan Cyber Initiative. “They are early adopters.”&lt;/p&gt;
+
+&lt;p&gt;The differences in state commission cybersecurity responses creates a broad check list of potential strategies for overseeing the threat, illustrating states’ roles as “laboratories” for policy experimentation.&lt;/p&gt;
+
+&lt;p&gt;The staff of the California Public Utility Commission has recommended a series of cybersecurity actions by state commissions, including directing utilities to break out and itemize what they are spending on cyber actions in rate requests.&lt;/p&gt;
+
+&lt;p&gt;“Funding discussions on cybersecurity tend to be that the utilities are spending too much on cybersecurity, until they are not,” said Chris Villarreal, CPUC senior regulatory analyst.&lt;/p&gt;
+
+&lt;p&gt;“Having a good way of measuring the effectiveness of cybersecurity funding remains a challenge, as the utility has to justify spending money avoiding something – how to justify the cost of spending money on something that doesn’t happen?” he said. Detailing those costs in rate cases is a start.&lt;/p&gt;
+
+&lt;p&gt;The NRRI survey, however, found that there were only seven states where utilities explicitly detailed cybersecurity costs within rate cases.&lt;/p&gt;
+
+&lt;p&gt;The rarity of seeing cybersecurity in rate cases stems from the difficulty of conducting cost/benefit analyses for cyber protections, experts say.&lt;/p&gt;
+
+&lt;p&gt;It’s also “really hard for commissioners to assess the reliability of any such kinds of estimates,” noted Paul Stockton, former assistant secretary of Defense for homeland security and managing director of consultancy Sonecon LLC. “This is an area where informal, non-docketed discussion between commissioners, their staffs and the utilities is absolutely vital.”&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, emerging technologies are blurring the lines between distribution and transmission networks, further changing risk assessments, Stockton said.&lt;/p&gt;
+
+&lt;p&gt;“The grid is being modernized and strengthened so rapidly that I don’t believe we understand, in the years to come, how many new attack surfaces we’re creating, all of the interdependencies that are likely to emerge,” he said. “That is an area that requires further analysis – not just where we are today, but attempting to anticipate how investment is going to go forward.”&lt;/p&gt;
+
+&lt;h1 id=&quot;info-protection&quot;&gt;Info protection&lt;/h1&gt;
+
+&lt;p&gt;State commissions that ask utilities to report cyberattacks or vulnerabilities have to be able to protect information that may be accessible under state open records laws.&lt;/p&gt;
+
+&lt;p&gt;“Much of this information is highly confidential, and care needs to be taken to ensure the ongoing protection of this information. Utilities are reluctant to tell the regulator of high risk [factors] for fear of regulatory investigation and potential liability risks,” California’s Villarreal said.&lt;/p&gt;
+
+&lt;p&gt;Across the utility spectrum, officials say a crucial priority is congressional action on threat-sharing legislation. Officials say utilities need a safe harbor when they disclose vulnerabilities and a shield from lawsuits if they have to cut off customers’ power temporarily to deal with severe cyber intrusions – assuming the utilities have taken reasonable measures to protect themselves.&lt;/p&gt;
+
+&lt;p&gt;Missouri’s Public Service Commission began a formal cybersecurity review in 2012, asking utilities to answer the NARUC questions and give high-level presentations on their cyberdefense programs. But that soon evolved into an informal arrangement.&lt;/p&gt;
+
+&lt;p&gt;“We created a team of staff experts [at the commission],” said Terry Jarrett, a former Missouri commission member. The team brought together people with backgrounds in information technology, grid operations and engineering.&lt;/p&gt;
+
+&lt;p&gt;“They were regularly in contact with our regulated utilities on cybersecurity issues,” Jarrett said. “We found that was very, very helpful. Some of our utilities weren’t having issues but were sharing risks they were seeing and the steps they were taking.”&lt;/p&gt;
+
+&lt;p&gt;The informal nature of the conversations put utilities at ease, he added.&lt;/p&gt;
+
+&lt;p&gt;“We didn’t want any formal documents on sensitive cybersecurity issues that we would house on the commission server that might be hacked,” said Jarrett, who headed NARUC’s cybersecurity panel before leaving the commission in 2013.&lt;/p&gt;
+
+&lt;p&gt;Arthur House, chairman of the Connecticut Public Utilities Regulatory Authority, cited similar concerns as a basis for seeking a close but informal dialogue with the state’s electric utilities on cybersecurity. “We don’t want to be the custodian of sensitive information,” he said.&lt;/p&gt;
+
+&lt;p&gt;Yet another issue for commissions is recruiting qualified cybersecurity staff.&lt;/p&gt;
+
+&lt;p&gt;Washington’s Zakai said that states should be flexible with defining “qualified,” however.&lt;/p&gt;
+
+&lt;p&gt;“I wouldn’t call myself qualified to go out and try to hack into a company’s system,” he said. “But that’s OK, I don’t think we need that expertise in-house in the commission as long as we’re making sure the companies do have someone outside of their internal teams that are looking at it.”&lt;/p&gt;
+
+&lt;p&gt;Budgetary constraints play a role in preventing commissions from attracting and keeping cybersecurity talent. Villarreal mentions another issue: Many state commissions do not have staff with security clearances to be part of the larger, national conversation on cybersecurity.&lt;/p&gt;
+
+&lt;p&gt;“It’s difficult for a state commission to have a cybersecurity expert,” said Pennsylvania Commissioner Witmer. “Quite frankly – to this point – most of the state cybsersecurity experts are self-taught IT [information technology] folks. We’re now just starting to see universities develop degrees in cybsersecurity.”&lt;/p&gt;
+
+&lt;p&gt;That expertise will help utilities and commissions in the future if their budgets have the room.&lt;/p&gt;
+
+&lt;p&gt;“Our larger utilities have more resources, so one of the things we’ve been working very hard at is helping break down barriers in the conduit of information and allow our larger utilities to serve as mentors to some of our smaller and midsized companies,” Witmer said.&lt;/p&gt;
+
+&lt;h1 id=&quot;unconventional-strategies&quot;&gt;Unconventional strategies&lt;/h1&gt;
+
+&lt;p&gt;Some states have acted to strengthen utility cybersecurity defenses outside of the utility commission regulatory framework.&lt;/p&gt;
+
+&lt;p&gt;In Utah, legislators carved out funding for a cyber protection and investigation unit after a breach at the state’s Department of Technology Services leaked the personal information of hundreds of thousands of Medicaid recipients and child patients three years ago.&lt;/p&gt;
+
+&lt;p&gt;The State Bureau of Investigation’s new Cyber Crimes Unit is equipped to respond to cyberthreats involving electric utilities, officials said.&lt;/p&gt;
+
+&lt;p&gt;“We would investigate cyberthreats to the electrical grid if requested by the entity,” said Maj. Brian Redd, cyber division director at the Utah Department of Public Safety.&lt;/p&gt;
+
+&lt;p&gt;He added that the unit would coordinate with federal investigators for any incident involving critical infrastructure, such as an attack on the electric grid.&lt;/p&gt;
+
+&lt;p&gt;Redd said the harried response following the health care data breach revealed a need for more resources to counter cyberthreats.&lt;/p&gt;
+
+&lt;p&gt;“We feel much more prepared now to deal with intrusions,” he said, although he added that “we have a long ways to go,” particularly when it comes to sharing information with the private sector.&lt;/p&gt;
+
+&lt;p&gt;For its part, Utah’s Public Service Commission has talked about cybersecurity with regulated utilities at technical conferences but has yet to take formal action.&lt;/p&gt;
+
+&lt;p&gt;Still, Gary Widerburg, administrator for Utah’s PSC, said the regulator would be open to having conversations with the Cyber Crimes Unit to prepare for a possible attack on the grid.&lt;/p&gt;
+
+&lt;p&gt;“Cybersecurity is definitely a discussion that is going to continue to grow,” Widerburg said. “It’s not something that can be ignored, and you’re going to hear more and more about it.”&lt;/p&gt;
+
+&lt;p&gt;Some states have used voluntary cyber guidelines published by the National Institute of Standards and Technology as a benchmark for their regulated utilities’ progress. Other state regulators hew toward relying on Critical Infrastructure Protection standards for the bulk electric power grid.&lt;/p&gt;
+
+&lt;p&gt;Since 2012, New York’s Public Service Commission has directed large utilities to go above and beyond NERC standards by addressing cybersecurity budgeting and staffing needs.&lt;/p&gt;
+
+&lt;p&gt;Phelan credited New York as being one of the more vocal states on the cybersecurity issue but concluded from the survey that most electric utilities and regulatory commissions are far from declaring victory against the shadowy, evolving cybersecurity threats they face.&lt;/p&gt;
+
+&lt;p&gt;“We really found that commissions aren’t ready to say that they’ve been successful, that their way is the right way,” he said. “So the level of confidence in utility commissions that they’re doing the right thing isn’t extraordinarily high, but they’re more than willing to act and to try to figure out the way forward.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eenews.net/stories/1060013552&quot;&gt;Available at EnergyWire, story by Peter Behr and Blake Sobczak.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Feb 2015 07:16:00 -0500</pubDate>
+        <link>http://mrandmrsphelan.com/blog/cyber/energyWire.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/cyber/energyWire.html</guid>
+        
+        <category>press</category>
+        
+        
+        <category>cyber</category>
+        
+      </item>
     
       <item>
         <title>Maps</title>
@@ -18,35 +377,38 @@
 &lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapOne.jpg&quot; alt=&quot;Base Year&quot; /&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There’s a file for “background” images that I use as patterns, like so in the &lt;defs&gt; section of the SVG:&lt;/defs&gt;&lt;/p&gt;
+&lt;p&gt;The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There’s a file for “background” images that I use as patterns, like so in the &lt;code&gt;&amp;lt;defs&amp;gt;&lt;/code&gt; section of the SVG:&lt;/p&gt;
 
-&lt;pattern id=&quot;optionOne&quot; patternunits=&quot;userSpaceOnUse&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;
-  &lt;image xlink:href=&quot;background/fourVars/optionOne.png&quot; x=&quot;0&quot; y=&quot;0&quot; width=&quot;20&quot; height=&quot;20&quot; /&gt;
-  &lt;/pattern&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;pattern id=&quot;optionOne&quot; patternUnits=&quot;userSpaceOnUse&quot; width=&quot;20&quot; height=&quot;20&quot;&amp;gt;
+&amp;lt;image xlink:href=&quot;background/fourVars/optionOne.png&quot; x=&quot;0&quot; y=&quot;0&quot; width=&quot;20&quot; height=&quot;20&quot; /&amp;gt;
+&amp;lt;/pattern&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;You permutate for optionTwo, optionOneTwo, etc. This pattern has four variables, so it’s in the fourVars folder. There are also two and three variable options, as well as single color options for red, blue, green, purple, yellow, and grey. We also linked up a CSS document to each map that went through each permutation of:&lt;/p&gt;
 
-&lt;p&gt;.optionOne {
-    fill:url(#optionOne);
-    stroke:#100101;
-    stroke-width:0.75;
-    stroke-opacity:1;
-  }&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;.optionOne {
+  fill:url(#optionOne);
+  stroke:#100101;
+  stroke-width:0.75;
+  stroke-opacity:1;
+}
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Then, the blank states and states that didn’t comment get:&lt;/p&gt;
 
-&lt;p&gt;.state {
-    fill:#FFFFFF;
-    stroke:#100101;
-    stroke-width:0.75;
-    stroke-opacity:1;
-  }
-  .noComment {
-    fill:#CCCCCC;
-    stroke:#100101;
-    stroke-width:0.75;
-    stroke-opacity:1;
-  }&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;.state {
+  fill:#FFFFFF;
+  stroke:#100101;
+  stroke-width:0.75;
+  stroke-opacity:1;
+}
+.noComment {
+  fill:#CCCCCC;
+  stroke:#100101;
+  stroke-width:0.75;
+  stroke-opacity:1;
+}
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;You just make the class of each state the appropriate option, and ta-da, you’ve got a map. The SVG goes into GIMP, and you add your legend, key, and title.&lt;/p&gt;
 
@@ -56,7 +418,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapTwoB.jpg&quot; alt=&quot;Early Action and Interim Goal Issues&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Comments from reviewers found the map too busy, and I’d probably agree. I’m a bit grumpy that my work in making the one-color patterns was wasted, but I’ll be looking to implement them on a future project. It seemed like there was some hope that fuel resource may correspond with one of the issues, but there really weren’t any correlations to be drawn from any of this data.&lt;/p&gt;
+&lt;p&gt;Comments from reviewers found the map too busy, and I’d probably agree. Also, I never got around to correcting the legend because we stopped using this map; note that the symbol for Stranded Assets is supposed to be a diamond. I’m a bit grumpy that my work in making the one-color patterns was wasted, but I’ll be looking to implement them on a future project. It seemed like there was some hope that fuel resource may correspond with one of the issues, but there really weren’t any correlations to be drawn from any of this data.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapThree.jpg&quot; alt=&quot;Early Action and Interim Goal Issues&quot; /&gt;&lt;/p&gt;
 

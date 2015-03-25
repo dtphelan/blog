@@ -6,6 +6,8 @@ date:       2015-03-23 13:01:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-01.jpg"
 comments:   true
+custom_css: nuclear
+custom_js:  nuclear
 ---
 ![Nuclear Power](img/nuclearRetention/nuclearPower.png){: .right-image }{: img-responsive }Nuclear power has historically provided baseload generation for the United States’ electric grid, and supplied roughly 19% of the country’s energy generation in 2013. Nuclear offers baseload power with low greenhouse gas emissions and low fuel costs, but issues with high up-front costs and, increasingly, low wholesale electricity costs have limited the expansion of nuclear power. Existing plants that must compete with the price of natural gas in restructured markets have, in some cases, opted to shut down rather than operate at losses. The price pressures on nuclear power have placed the future of the resource under threat.
 
@@ -102,7 +104,7 @@ The remaining closures at Vermont Yankee and the Kewaunee Power Station are dist
 
 ## State Legislatures ##
 
-While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 3, below.
+While state utility commissions have not been particularly active in nuclear retention decisions, state legislatures have adopted a variety of stances towards nuclear power. Seven states have adopted legislative incentives designed to promote nuclear construction or generation. However, 13 states have placed additional restrictions on the creation of new nuclear plants. These incentives are summarized in Figure 5, below.
 
 ### Figure 5. State Legislative Incentives and Nuclear Power Plants ###
 ![State Legislative Incentives and Nuclear Power Plants](img/nuclearRetention/figureFive.png)
