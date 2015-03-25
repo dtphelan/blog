@@ -5,9 +5,49 @@
     <description>A blog, with blogging things</description>
     <link>http://mrandmrsphelan.com/blog/</link>
     <atom:link href="http://mrandmrsphelan.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Mar 2015 08:27:00 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2015 08:27:00 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2015 09:14:55 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 09:14:55 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jekyll and Unique Post CSS</title>
+        <description>&lt;p&gt;One of my goals for this thing is to turn my work papers into digital-first documents. NRRI is really focused on a simple Word-to-PDF publishing process, but most of the publishing world has moved onto digital publications. I’m trying to imagine what our papers would like like when they’re focused on being read digitally, and that’s why I’m putting up the Nuclear Retention paper. I’ll probably be adding in “features” as I go along, and the first one I wanted to add was page-specific CSS and JS.&lt;/p&gt;
+
+&lt;p&gt;The standard formatting from Clean Blog is really nice, but I want to see if I can do some more customized things on these kind of “feature” posts. I didn’t want to just add these things to the main CSS and JS files; they’re a bit cumbersome to work with, the files are large, and I didn’t want to bloat it up with redundant, page-specific classes.&lt;/p&gt;
+
+&lt;p&gt;I tried creating custom post layouts, but couldn’t get things quite lined up right. There’d be a missing file, things would render incorrectly, all sorts of issues that kept happening. The Jekyll documentation isn’t incredibly clear on how layouts work, so the process was a bit frustrating. There are a lot of tutorials out there that involve setting up your default layout, but none moving beyond that.&lt;/p&gt;
+
+&lt;p&gt;Eventually, I found &lt;a href=&quot;http://mattgemmell.com/page-specific-assets-with-jekyll/&quot;&gt;this post by Matt Gemmell.&lt;/a&gt; Works like a charm. In your post’s front matter, you add:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;___
+custom_css: custom
+custom_js:  custom
+___
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, wherever your Head is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{% if page.custom_css %}
+  {% for stylesheet in page.custom_css %}
+  &amp;lt;link rel=&quot;stylesheet&quot; href=&quot;/css/{{ stylesheet }}.css&quot; media=&quot;screen&quot; type=&quot;text/css&quot;&amp;gt;
+  {% endfor %}
+{% endif %}
+
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  &amp;lt;script src=&#39;/javascripts/{{ js_file }}.js&#39; type=&quot;text/javascript&quot;&amp;gt;&amp;lt;/script&amp;gt;
+  {% endfor %}
+{% endif %}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This pulls in custom.css and custom.js to your post. Excellent.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Mar 2015 04:51:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/jekyllCustomAssets.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/jekyllCustomAssets.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Nuclear Retention</title>
