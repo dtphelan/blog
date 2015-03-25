@@ -1,5 +1,5 @@
 ---
-layout:     nuclear
+layout:     nuclearPost
 title:      "Nuclear Retention"
 subtitle:   "Work in Progress"
 date:       2015-03-23 13:01:00
