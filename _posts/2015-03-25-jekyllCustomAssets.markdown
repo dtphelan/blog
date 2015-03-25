@@ -19,7 +19,7 @@ Eventually, I found <a href="http://mattgemmell.com/page-specific-assets-with-je
   custom_css: custom
   custom_js:  custom
   ___
-</code>
+</code></pre>
 Then, wherever your Head is:
 <pre><code>
   {% if page.custom_css %}
@@ -33,5 +33,5 @@ Then, wherever your Head is:
     <script src='/javascripts/{{ js_file }}.js' type="text/javascript"></script>
     {% endfor %}
   {% endif %}
-</code>
+</code></pre>
 This pulls in custom.css and custom.js to your post. Excellent.
