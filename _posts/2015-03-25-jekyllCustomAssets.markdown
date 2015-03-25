@@ -14,14 +14,14 @@ The standard formatting from Clean Blog is really nice, but I want to see if I c
 I tried creating custom post layouts, but couldn't get things quite lined up right. There'd be a missing file, things would render incorrectly, all sorts of issues that kept happening. The Jekyll documentation isn't incredibly clear on how layouts work, so the process was a bit frustrating. There are a lot of tutorials out there that involve setting up your default layout, but none moving beyond that.
 
 Eventually, I found <a href="http://mattgemmell.com/page-specific-assets-with-jekyll/">this post by Matt Gemmell.</a> Works like a charm. In your post's front matter, you add:
-
+<code>
   ___
   custom_css: custom
   custom_js:  custom
   ___
-
+</code>
 Then, wherever your Head is:
-
+<code>
   {% if page.custom_css %}
     {% for stylesheet in page.custom_css %}
     <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
@@ -33,5 +33,5 @@ Then, wherever your Head is:
     <script src='/javascripts/{{ js_file }}.js' type="text/javascript"></script>
     {% endfor %}
   {% endif %}
-
+</code>
 This pulls in custom.css and custom.js to your post. Excellent.
