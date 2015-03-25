@@ -5,7 +5,7 @@ subtitle:   "Work in Progress"
 date:       2015-03-23 13:01:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-01.jpg"
-comments:   true
+comments:   false
 custom_css: report
 category:   report
 ---

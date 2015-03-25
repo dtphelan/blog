@@ -29,6 +29,7 @@ layout: default
 
                 <hr>
 
+                {% if page.categories == post %}
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -41,6 +42,7 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
+                {% endif %}
 
                 {% if page.comments %}
                 {% include comments.html %}
