@@ -5,8 +5,8 @@
     <description>A blog, with blogging things</description>
     <link>http://mrandmrsphelan.com/blog/</link>
     <atom:link href="http://mrandmrsphelan.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 27 Mar 2015 17:32:54 -0400</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2015 17:32:54 -0400</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2015 15:08:22 -0400</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2015 15:08:22 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -18,9 +18,11 @@
 &lt;p&gt;Now, I should just leave it alone for a bit. It’s doubtful that I’ll actually get to implement the new page, and I’ve spent way too much energy on it already. I’ll have to think of this post as a bit of a teaser; I’ve got a bunch of things to write about later on. The goal, now: forget about the page for (at least) the weekend.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Mar 2015 13:31:00 -0400</pubDate>
-        <link>http://mrandmrsphelan.com/blog/webDesign.html</link>
-        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/webDesign.html</guid>
+        <link>http://mrandmrsphelan.com/blog/web/webDesign.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/web/webDesign.html</guid>
         
+        
+        <category>web</category>
         
       </item>
     
@@ -61,6 +63,84 @@ ___
         <link>http://mrandmrsphelan.com/blog/jekyllCustomAssets.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/jekyllCustomAssets.html</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Dummy Reports</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Mar 2015 09:02:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/report/dummyReportTwo.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/report/dummyReportTwo.html</guid>
+        
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Reports</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Mar 2015 09:02:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/report/dummyReportThree.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/report/dummyReportThree.html</guid>
+        
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Reports</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Mar 2015 09:02:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/report/dummyReportOne.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/report/dummyReportOne.html</guid>
+        
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Reports</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Mar 2015 09:02:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/report/dummyReportFour.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/report/dummyReportFour.html</guid>
+        
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Reports</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Mar 2015 09:02:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/report/dummyReportFive.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/report/dummyReportFive.html</guid>
+        
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Reports</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Mar 2015 09:02:00 -0400</pubDate>
+        <link>http://mrandmrsphelan.com/blog/report/dummyReport.html</link>
+        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/report/dummyReport.html</guid>
+        
+        
+        <category>report</category>
         
       </item>
     
@@ -190,352 +270,6 @@ ___
         <link>http://mrandmrsphelan.com/blog/middling.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/middling.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Updates</title>
-        <description>&lt;p&gt;Where did that leave me? It has now been two-and-a-half weeks since I wrote something. That’s over twice as long as I had remained committed to writing. Well, let’s not get too discouraged. Back to it.&lt;/p&gt;
-
-&lt;p&gt;Today’s agenda is going to include reading about security threats, watching associated lectures, and finalizing my UTC security committee presentation. That’s happening on Thursday; I’m presenting my commission action report to telecom industry folks. I’m not envisioning a huge revision of my standard presentation, so that shouldn’t be too heavy a lift. Nonetheless, it’s 11 AM and I haven’t accomplished very much.&lt;/p&gt;
-
-&lt;p&gt;I’m also on-call for a discussion with the boss about our project on nuclear retention. Broadly, we’re going to be looking at how retention decisions have been made across the country. In the past five years, four nuclear plants have closed, and another faces the strong possibility of closure. The nuclear industry, as a whole, has taken this threat to heart, with a lot of hand-wringing about nuclear’s role in the future generating mix. NRRI has been approached to examine the issue, originally look at the role of state commissions in the closure process. However, we’ve come to the conclusion that there really isn’t much of a commission role in the decision.&lt;/p&gt;
-
-&lt;p&gt;Two of the closures came as a result of hardware failures that were too expensive to repair, and the other two have resulted from uneconomic conditions brought about largely by the low price of natural gas. Commissions have neither directed these generators to close, nor directed them to stay open. In restructured states, commissions have no control over generation, and it’s difficult to see how a commission could influence a merchant generator’s decision to shutter.&lt;/p&gt;
-
-&lt;p&gt;Further, it’s been difficult to examine the effects of closures. We wanted to look at economic and census data and see if any conclusions could be divined. Given that our sample size is a miserable four, we didn’t expect very much to come of such an analysis, but we found even less data to work with. The Census collects economic data every five years, with the last round occurring in 2012. Only one plant has data for both before and after closure, and controlling for the macroeconomic effects of the Great Recession is going to be difficult.&lt;/p&gt;
-
-&lt;p&gt;This leaves us with little to work on, and only a month to work on it. Clearly, I’m pretty down on the project. Most likely, the project ends up being anecdotal, however useful that is.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Mar 2015 07:19:00 -0400</pubDate>
-        <link>http://mrandmrsphelan.com/blog/work/updates.html</link>
-        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/updates.html</guid>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>Paper Ideas</title>
-        <description>&lt;p&gt;I’m moving forward with an eye on Critical Infrastructure topics. Most of my ideas are cybersecurity-focused, but I’m trying to at least come up with some other options. The following “abstracts” are going out to commissioners and staff; their input will largely decide which one I focus on. These other topics may come up at some later time, but no promises.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-anatomy-of-a-cyber-attack-weaknesses-and-prevention-techniques-for-critical-infrastructure&quot;&gt;The Anatomy of a Cyber Attack: Weaknesses and Prevention Techniques for Critical Infrastructure&lt;/h1&gt;
-&lt;p&gt;Cyber attacks vary greatly in their targets and impacts. The critical infrastructure sectors face attacks that are both similar and dissimilar to other industries. The impacts of a cyber attack on an essential utility could be must greater than attacks on the average business, and the vulnerabilities that utilities must deal with are more varied and specialized. This report would describe some of the most common cyber attack vectors faced by the Critical Infrastructure sectors, methods for preventing and mitigating these attacks, and how these common attacks may impact a utility’s operations. The report would provide commissioners with better knowledge of the dangers that their regulated utilities may face.&lt;/p&gt;
-
-&lt;h1 id=&quot;critical-infrastructure-physical-security-state-and-federal-approaches&quot;&gt;Critical Infrastructure Physical Security: State and Federal Approaches&lt;/h1&gt;
-&lt;p&gt;Recent incidents in California, particularly the attack on the Metcalf substation, have placed increased focus on the physical security needs of critical infrastructure. Efforts have been made to ensure the protection of electric resources from physical attack, including NERC’s CIP-014-1 requirement, but these attacks will remain a threat. This report will provide an overview of the physical security requirements placed on energy, water, and telecommunication utilities by state and federal entities, and will examine the standards and best-practices that have been developed across these, and other, industries.&lt;/p&gt;
-
-&lt;h1 id=&quot;data-privacy-and-ratepayers&quot;&gt;Data Privacy and Ratepayers&lt;/h1&gt;
-&lt;p&gt;As utilities begin to implement AMI functions, they gain access to vast amounts of customer usage data. This type of granular information was previously unknowable for a utility, and allows utilities to offer innovative services to its ratepayers. Yet, the collection of this data also creates privacy concerns. Should utilities freely share this data with third-parties? What types of information should or shouldn’t be collected or shared? How can a ratepayer preserve his or her privacy? This report will examine these issues, and provide an overview of state and federal laws regarding the use of private data, the storage of that data, and breach disclosures.&lt;/p&gt;
-
-&lt;h1 id=&quot;designing-effective-cybersecurity-regulations-concepts-misconceptions-and-innovations&quot;&gt;Designing Effective Cybersecurity Regulations: Concepts, Misconceptions, and Innovations&lt;/h1&gt;
-&lt;p&gt;Regulators have made strong efforts to learn about cybersecurity in recent years, but still do not speak the same language of technical experts in the field. This report would examine fundamental cybersecurity concepts, such as redundancy, the limitations of security through obscurity, and the importance of principled regulations. As a whole, the report would provide regulators with the knowledge background needed to create effective cybersecurity regulation; that is, regulations that are reasonably met, technically knowledgable, and engender safer cybersecurity practices.&lt;/p&gt;
-
-&lt;h1 id=&quot;critical-infrastructure-information-sharing-programs&quot;&gt;Critical Infrastructure Information Sharing Programs&lt;/h1&gt;
-&lt;p&gt;Critical infrastructure utilities face physical and cyber threats from advanced actors. Private utilities do not have the resources needed to be constantly aware of developing threats; utilities must rely on information sharing initiatives with federal agencies and their private sector peers. This report will examine the information sharing initiatives currently available to utilities, proposals for improving the information sharing process, and how state regulators can get involved.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Feb 2015 05:09:00 -0500</pubDate>
-        <link>http://mrandmrsphelan.com/blog/work/paperIdeas.html</link>
-        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/paperIdeas.html</guid>
-        
-        <category>topics</category>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>State regulators stir cybersecurity pot</title>
-        <description>&lt;p&gt;Some utilities in Washington state invite friendly hackers to try to break into critical utility systems to discover cybersecurity vulnerabilities. The Washington Utilities and Transportation Commission encourages but does not require such testing, and also conducts its own on-site audits of regulated companies’ security plans, according to E&amp;amp;E’s EnergyWire. Similarly Pennsylvania regulators require utilities to certify annually that their cyber and physical defenses are up to snuff. Even in sparsely populated Montana, regulators ask utilities to respond to a lengthy cybersecurity preparedness survey that NARUC prepared. The three examples illustrate how state regulators are responding to cybersecurity threats to utilities they regulate, documented in a recent report by the National Regulatory Research Institute. “Some states [are] super enthusiastic about it,” said Daniel Phelan, an NRRI research associate who prepared the report, told Energy Wire. Other states, he indicated, not so much.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.electricitypolicy.com/news/7768-state-regulators-stir-cybersecurity-pot&quot;&gt;Available at Electricity Daily.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Feb 2015 04:07:00 -0500</pubDate>
-        <link>http://mrandmrsphelan.com/blog/cyber/stateRegulators.html</link>
-        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/cyber/stateRegulators.html</guid>
-        
-        <category>press</category>
-        
-        
-        <category>cyber</category>
-        
-      </item>
-    
-      <item>
-        <title>States search for strong cyberdefense strategies</title>
-        <description>&lt;p&gt;In Washington state, power utilities are expected to invite “good guy” hackers to try to break into critical systems to surface any cybersecurity vulnerabilities.&lt;/p&gt;
-
-&lt;p&gt;The state’s Utilities and Transportation Commission, which encourages but does not require such penetration testing, also conducts on-site audits of regulated companies’ security plans.&lt;/p&gt;
-
-&lt;p&gt;The Pennsylvania Public Utility Commission requires utilities to certify annually that their defenses are up to date, covering not only cyber threats, but also physical security, emergency response and continuity of operations. “I’m very happy to say that our utilities have taken it seriously,” said PUC Commissioner Pamela Witmer.&lt;/p&gt;
-
-&lt;p&gt;In Montana, regulators had utilities respond to a lengthy cybersecurity preparedness survey NARUC produced, but there haven’t been any follow-up actions.&lt;/p&gt;
-
-&lt;p&gt;“There’s really been no major conversation concerning [cybersecurity], so we just don’t have a lot of information,” said Joel Tierney, utility engineer and pipeline safety program manager for the state’s Public Service Commission. “It’s one of those things where it takes something to happen for people to get excited about it.”&lt;/p&gt;
-
-&lt;p&gt;The three examples illustrate a wide disparity in how state utility commissions are responding to cybersecurity threats to utilities they regulate, documented in a recent report by the National Regulatory Research Institute.&lt;/p&gt;
-
-&lt;p&gt;“Some states … they’re super enthusiastic about it,” said Daniel Phelan, a NRRI research associate who prepared the report summarizing state regulators’ responsibilities for cybersecurity. “Whereas other states, you struggle to find any information about what they’ve been doing.”&lt;/p&gt;
-
-&lt;p&gt;NRRI provides research services for members of the National Association of Regulatory Utility Commissioners, which put cybersecurity high on the agenda for its winter meeting this week in Washington, D.C. The NRRI survey was prepared for the Middle Atlantic Cybersecurity Collaborative, representing six commissions in that region.&lt;/p&gt;
-
-&lt;p&gt;Eighty percent of the U.S. electric power network is in the hands of distribution utilities regulated by states, municipal councils or cooperative boards. Only the interstate high-voltage grids are governed by the Federal Energy Regulatory Commission and its standards-setting organization, the North American Electric Reliability Corp. (NERC).&lt;/p&gt;
-
-&lt;p&gt;Phelan found that as of the end of last year, 11 commissions had completed rules or orders relating to cybersecurity: Arkansas, California, Connecticut, Maryland, Montana, New Jersey, New York, Oregon, Pennsylvania, Texas and Washington.&lt;/p&gt;
-
-&lt;p&gt;Eight other states, plus New York and Connecticut and the District of Columbia, had ongoing dockets on cybersecurity policy: Indiana, Kentucky, Louisiana, Massachusetts, Missouri, Rhode Island, South Carolina and Vermont.&lt;/p&gt;
-
-&lt;p&gt;Thirty-one states are not on either list.&lt;/p&gt;
-
-&lt;p&gt;The NRRI report and interviews with state officials reveal a patchwork of cyberthreat responses that causes some experts to question whether gaps exist in cybersecurity defenses of the nation’s distribution utilities.&lt;/p&gt;
-
-&lt;p&gt;Yochi Zakai, policy adviser for Washington’s UTC, says it “is only a matter of time” before a utility gets hacked in a big way, echoing a warning last year by Adm. Michael Rogers, head of the National Security Agency and the U.S. Cyber Command.&lt;/p&gt;
-
-&lt;p&gt;“If you’re aware of what’s going on in this field, no system is 100 percent secure, and you know we have to be very vigilant,” Zakai said. “So hopefully a company has a good system set up and then they are able to identify [the attack] right away and it’s not serious.”&lt;/p&gt;
-
-&lt;p&gt;Some experts and officials say the hit-and-miss response to the NRRI survey of state commissions likely understates the extent of cybersecurity threat response among both commissions and the distribution utilities they regulate. But Phelan said he knows of no comprehensive public assessments of cybersecurity defenses protecting electric power utilities.&lt;/p&gt;
-
-&lt;p&gt;How safe is the electricity distribution network? “We don’t know,” said one expert, who declined to speak on the issue for attribution. “We won’t know until something happens.”&lt;/p&gt;
-
-&lt;p&gt;Utility executives and industry and government cybersecurity officials say that the amount and quality of cybersecurity threat information that utilities can use and act on varies significantly.&lt;/p&gt;
-
-&lt;p&gt;Anthony Earley Jr., chairman and CEO of PG&amp;amp;E Corp., which runs California’s largest power utility, says that his company and some other large utilities have access to advanced cybersecurity forensics and defenses through a top-level federal-industry partnership, the Electricity Sub-sector Coordinating Council (ESCC).&lt;/p&gt;
-
-&lt;p&gt;“The utility sector and the federal government have a really good, cooperative relationship,” Earley said.&lt;/p&gt;
-
-&lt;p&gt;A new phase of the relationship followed the devastation of Superstorm Sandy in 2013, he added. It was clear that the impact of a severe cybersecurity attack could resemble the widespread damage and recovery obstacles the storm created.&lt;/p&gt;
-
-&lt;p&gt;“The federal government has very sophisticated tools for going into a system, monitoring it to see its vulnerabilities and whether it has been broken into. Utilities have been able to use these tools to help improve their systems because these tools are far more sophisticated than anything that is commercially available that we could get,” Earley said.&lt;/p&gt;
-
-&lt;p&gt;So far, several dozen utilities have chosen to pay a fee for access to the ESCC threat-sharing program Earley described, according to one industry expert. ESCC information on a more general level is shared with other utilities through a broader organization, the Energy Sector Information Sharing and Analysis Center – ES-ISAC – operated by NERC.&lt;/p&gt;
-
-&lt;p&gt;ES-ISAC employs technology from the Department of Homeland Security to share threat data. However, many utilities are not yet equipped to plug into the full capabilities ES-ISAC offers, officials say.&lt;/p&gt;
-
-&lt;p&gt;To strengthen participation in ES-ISAC, utilities around the country are being asked, “what do you need? What tools and capabilities do you want the ES-ISAC to have and provide so you can take actions to protect system,” one informed official explained.&lt;/p&gt;
-
-&lt;h1 id=&quot;states-experiment&quot;&gt;States experiment&lt;/h1&gt;
-
-&lt;p&gt;Many governors’ offices have also sought to sharpen their cyber readiness.&lt;/p&gt;
-
-&lt;p&gt;The National Governors Association created a Resource Center for State Cybersecurity in 2012 to assist state officials. A paper by NGA senior policy analyst Andrew Kambour last year said that Delaware, Maryland, Missouri, Rhode Island, Utah and Washington have created cybersecurity units within the National Guard. Kambour noted that Washington, home state to Microsoft Corp., specifically draws on the cybersecurity and technology expertise of guard members in their day jobs.&lt;/p&gt;
-
-&lt;p&gt;State utility commissions are designed as independent bodies not under a governor’s direct control. However, some governors have emphasized the need for strong partnerships with the private sector, including utilities, said Doug Robinson, executive director of the National Association of State Chief Information Officers, which advises state governments on cybersecurity issues.&lt;/p&gt;
-
-&lt;p&gt;“The best example of that is Michigan,” Robinson said. The state’s Public Service Commission is part of Gov. Rick Snyder’s governmentwide Michigan Cyber Initiative. “They are early adopters.”&lt;/p&gt;
-
-&lt;p&gt;The differences in state commission cybersecurity responses creates a broad check list of potential strategies for overseeing the threat, illustrating states’ roles as “laboratories” for policy experimentation.&lt;/p&gt;
-
-&lt;p&gt;The staff of the California Public Utility Commission has recommended a series of cybersecurity actions by state commissions, including directing utilities to break out and itemize what they are spending on cyber actions in rate requests.&lt;/p&gt;
-
-&lt;p&gt;“Funding discussions on cybersecurity tend to be that the utilities are spending too much on cybersecurity, until they are not,” said Chris Villarreal, CPUC senior regulatory analyst.&lt;/p&gt;
-
-&lt;p&gt;“Having a good way of measuring the effectiveness of cybersecurity funding remains a challenge, as the utility has to justify spending money avoiding something – how to justify the cost of spending money on something that doesn’t happen?” he said. Detailing those costs in rate cases is a start.&lt;/p&gt;
-
-&lt;p&gt;The NRRI survey, however, found that there were only seven states where utilities explicitly detailed cybersecurity costs within rate cases.&lt;/p&gt;
-
-&lt;p&gt;The rarity of seeing cybersecurity in rate cases stems from the difficulty of conducting cost/benefit analyses for cyber protections, experts say.&lt;/p&gt;
-
-&lt;p&gt;It’s also “really hard for commissioners to assess the reliability of any such kinds of estimates,” noted Paul Stockton, former assistant secretary of Defense for homeland security and managing director of consultancy Sonecon LLC. “This is an area where informal, non-docketed discussion between commissioners, their staffs and the utilities is absolutely vital.”&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, emerging technologies are blurring the lines between distribution and transmission networks, further changing risk assessments, Stockton said.&lt;/p&gt;
-
-&lt;p&gt;“The grid is being modernized and strengthened so rapidly that I don’t believe we understand, in the years to come, how many new attack surfaces we’re creating, all of the interdependencies that are likely to emerge,” he said. “That is an area that requires further analysis – not just where we are today, but attempting to anticipate how investment is going to go forward.”&lt;/p&gt;
-
-&lt;h1 id=&quot;info-protection&quot;&gt;Info protection&lt;/h1&gt;
-
-&lt;p&gt;State commissions that ask utilities to report cyberattacks or vulnerabilities have to be able to protect information that may be accessible under state open records laws.&lt;/p&gt;
-
-&lt;p&gt;“Much of this information is highly confidential, and care needs to be taken to ensure the ongoing protection of this information. Utilities are reluctant to tell the regulator of high risk [factors] for fear of regulatory investigation and potential liability risks,” California’s Villarreal said.&lt;/p&gt;
-
-&lt;p&gt;Across the utility spectrum, officials say a crucial priority is congressional action on threat-sharing legislation. Officials say utilities need a safe harbor when they disclose vulnerabilities and a shield from lawsuits if they have to cut off customers’ power temporarily to deal with severe cyber intrusions – assuming the utilities have taken reasonable measures to protect themselves.&lt;/p&gt;
-
-&lt;p&gt;Missouri’s Public Service Commission began a formal cybersecurity review in 2012, asking utilities to answer the NARUC questions and give high-level presentations on their cyberdefense programs. But that soon evolved into an informal arrangement.&lt;/p&gt;
-
-&lt;p&gt;“We created a team of staff experts [at the commission],” said Terry Jarrett, a former Missouri commission member. The team brought together people with backgrounds in information technology, grid operations and engineering.&lt;/p&gt;
-
-&lt;p&gt;“They were regularly in contact with our regulated utilities on cybersecurity issues,” Jarrett said. “We found that was very, very helpful. Some of our utilities weren’t having issues but were sharing risks they were seeing and the steps they were taking.”&lt;/p&gt;
-
-&lt;p&gt;The informal nature of the conversations put utilities at ease, he added.&lt;/p&gt;
-
-&lt;p&gt;“We didn’t want any formal documents on sensitive cybersecurity issues that we would house on the commission server that might be hacked,” said Jarrett, who headed NARUC’s cybersecurity panel before leaving the commission in 2013.&lt;/p&gt;
-
-&lt;p&gt;Arthur House, chairman of the Connecticut Public Utilities Regulatory Authority, cited similar concerns as a basis for seeking a close but informal dialogue with the state’s electric utilities on cybersecurity. “We don’t want to be the custodian of sensitive information,” he said.&lt;/p&gt;
-
-&lt;p&gt;Yet another issue for commissions is recruiting qualified cybersecurity staff.&lt;/p&gt;
-
-&lt;p&gt;Washington’s Zakai said that states should be flexible with defining “qualified,” however.&lt;/p&gt;
-
-&lt;p&gt;“I wouldn’t call myself qualified to go out and try to hack into a company’s system,” he said. “But that’s OK, I don’t think we need that expertise in-house in the commission as long as we’re making sure the companies do have someone outside of their internal teams that are looking at it.”&lt;/p&gt;
-
-&lt;p&gt;Budgetary constraints play a role in preventing commissions from attracting and keeping cybersecurity talent. Villarreal mentions another issue: Many state commissions do not have staff with security clearances to be part of the larger, national conversation on cybersecurity.&lt;/p&gt;
-
-&lt;p&gt;“It’s difficult for a state commission to have a cybersecurity expert,” said Pennsylvania Commissioner Witmer. “Quite frankly – to this point – most of the state cybsersecurity experts are self-taught IT [information technology] folks. We’re now just starting to see universities develop degrees in cybsersecurity.”&lt;/p&gt;
-
-&lt;p&gt;That expertise will help utilities and commissions in the future if their budgets have the room.&lt;/p&gt;
-
-&lt;p&gt;“Our larger utilities have more resources, so one of the things we’ve been working very hard at is helping break down barriers in the conduit of information and allow our larger utilities to serve as mentors to some of our smaller and midsized companies,” Witmer said.&lt;/p&gt;
-
-&lt;h1 id=&quot;unconventional-strategies&quot;&gt;Unconventional strategies&lt;/h1&gt;
-
-&lt;p&gt;Some states have acted to strengthen utility cybersecurity defenses outside of the utility commission regulatory framework.&lt;/p&gt;
-
-&lt;p&gt;In Utah, legislators carved out funding for a cyber protection and investigation unit after a breach at the state’s Department of Technology Services leaked the personal information of hundreds of thousands of Medicaid recipients and child patients three years ago.&lt;/p&gt;
-
-&lt;p&gt;The State Bureau of Investigation’s new Cyber Crimes Unit is equipped to respond to cyberthreats involving electric utilities, officials said.&lt;/p&gt;
-
-&lt;p&gt;“We would investigate cyberthreats to the electrical grid if requested by the entity,” said Maj. Brian Redd, cyber division director at the Utah Department of Public Safety.&lt;/p&gt;
-
-&lt;p&gt;He added that the unit would coordinate with federal investigators for any incident involving critical infrastructure, such as an attack on the electric grid.&lt;/p&gt;
-
-&lt;p&gt;Redd said the harried response following the health care data breach revealed a need for more resources to counter cyberthreats.&lt;/p&gt;
-
-&lt;p&gt;“We feel much more prepared now to deal with intrusions,” he said, although he added that “we have a long ways to go,” particularly when it comes to sharing information with the private sector.&lt;/p&gt;
-
-&lt;p&gt;For its part, Utah’s Public Service Commission has talked about cybersecurity with regulated utilities at technical conferences but has yet to take formal action.&lt;/p&gt;
-
-&lt;p&gt;Still, Gary Widerburg, administrator for Utah’s PSC, said the regulator would be open to having conversations with the Cyber Crimes Unit to prepare for a possible attack on the grid.&lt;/p&gt;
-
-&lt;p&gt;“Cybersecurity is definitely a discussion that is going to continue to grow,” Widerburg said. “It’s not something that can be ignored, and you’re going to hear more and more about it.”&lt;/p&gt;
-
-&lt;p&gt;Some states have used voluntary cyber guidelines published by the National Institute of Standards and Technology as a benchmark for their regulated utilities’ progress. Other state regulators hew toward relying on Critical Infrastructure Protection standards for the bulk electric power grid.&lt;/p&gt;
-
-&lt;p&gt;Since 2012, New York’s Public Service Commission has directed large utilities to go above and beyond NERC standards by addressing cybersecurity budgeting and staffing needs.&lt;/p&gt;
-
-&lt;p&gt;Phelan credited New York as being one of the more vocal states on the cybersecurity issue but concluded from the survey that most electric utilities and regulatory commissions are far from declaring victory against the shadowy, evolving cybersecurity threats they face.&lt;/p&gt;
-
-&lt;p&gt;“We really found that commissions aren’t ready to say that they’ve been successful, that their way is the right way,” he said. “So the level of confidence in utility commissions that they’re doing the right thing isn’t extraordinarily high, but they’re more than willing to act and to try to figure out the way forward.”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.eenews.net/stories/1060013552&quot;&gt;Available at EnergyWire, story by Peter Behr and Blake Sobczak.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Feb 2015 07:16:00 -0500</pubDate>
-        <link>http://mrandmrsphelan.com/blog/cyber/energyWire.html</link>
-        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/cyber/energyWire.html</guid>
-        
-        <category>press</category>
-        
-        
-        <category>cyber</category>
-        
-      </item>
-    
-      <item>
-        <title>Maps</title>
-        <description>&lt;p&gt;We ended up finishing those 111(d) maps; let’s walk through them and think about the process/end results a bit.&lt;/p&gt;
-
-&lt;p&gt;NRRI has been working with NARUC on these. They’re for use by commissioners in a presentation describing how commissions have commented on the &lt;a href=&quot;http://www2.epa.gov/carbon-pollution-standards/what-epa-doing&quot;&gt;EPA’s proposed 111(d) rules&lt;/a&gt;. NRRI and NARUC have been going through the comments filed by each of the states, and have been looking for trends. One of the major issues between our organizations has been the inherently different nature of NRRI. We’re a 501c(3), while they’re a 501c(4). Layman’s terms, they can do political advocacy and we can’t. So, we’ve had to spend a lot of effort making sure that the maps aren’t politically charged, while NARUC may have some points in mind that it would like to make. Ultimately, NRRI took its name off of the maps, but I’m not going to stop myself from writing about them.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapOne.jpg&quot; alt=&quot;Base Year&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;The first map breaks down the commissions that commented on the base year that the EPA chose to work from. Yellow diamonds are simply that the base year was discussed, blue slashes take issue with using 2012, green dots discuss multi-year averages, and purple slashes discuss an earlier base year than 2012. I had to do a fair amount of work in setting up the images and the file structure around it. I make these with SVG and CSS, then use GIMP as my Photoshop replacement. There’s a file for “background” images that I use as patterns, like so in the &lt;code&gt;&amp;lt;defs&amp;gt;&lt;/code&gt; section of the SVG:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;pattern id=&quot;optionOne&quot; patternUnits=&quot;userSpaceOnUse&quot; width=&quot;20&quot; height=&quot;20&quot;&amp;gt;
-&amp;lt;image xlink:href=&quot;background/fourVars/optionOne.png&quot; x=&quot;0&quot; y=&quot;0&quot; width=&quot;20&quot; height=&quot;20&quot; /&amp;gt;
-&amp;lt;/pattern&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You permutate for optionTwo, optionOneTwo, etc. This pattern has four variables, so it’s in the fourVars folder. There are also two and three variable options, as well as single color options for red, blue, green, purple, yellow, and grey. We also linked up a CSS document to each map that went through each permutation of:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.optionOne {
-  fill:url(#optionOne);
-  stroke:#100101;
-  stroke-width:0.75;
-  stroke-opacity:1;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then, the blank states and states that didn’t comment get:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.state {
-  fill:#FFFFFF;
-  stroke:#100101;
-  stroke-width:0.75;
-  stroke-opacity:1;
-}
-.noComment {
-  fill:#CCCCCC;
-  stroke:#100101;
-  stroke-width:0.75;
-  stroke-opacity:1;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You just make the class of each state the appropriate option, and ta-da, you’ve got a map. The SVG goes into GIMP, and you add your legend, key, and title.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapTwo.jpg&quot; alt=&quot;Reliability and Stranded Assets&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This map only has the two variables of reliability and stranded assets. Originally, these had been mapped separately, with colors according to fuel consumption, like so:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapTwoB.jpg&quot; alt=&quot;Early Action and Interim Goal Issues&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Comments from reviewers found the map too busy, and I’d probably agree. Also, I never got around to correcting the legend because we stopped using this map; note that the symbol for Stranded Assets is supposed to be a diamond. I’m a bit grumpy that my work in making the one-color patterns was wasted, but I’ll be looking to implement them on a future project. It seemed like there was some hope that fuel resource may correspond with one of the issues, but there really weren’t any correlations to be drawn from any of this data.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapThree.jpg&quot; alt=&quot;Early Action and Interim Goal Issues&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Another map that originally had been two maps. This seems like a good time to explain myself on font choices: yes, I went with Helvetica. A bit passé for the cool-kid crowd, but being ahead of the curve really isn’t something I’m concerned about with this audience. It’s not Times New Roman, so I’m expecting my audience to be blown away by that mere fact. Helvetica looks modern without being threatening to a less technologically-adept crowd.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapFour.jpg&quot; alt=&quot;Interim Goal and Stringency of State Goal&quot; /&gt;&lt;br /&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the style of map that had been proposed for both Early Action and Interim Goal comments. I’m not certain why reviewers only wanted this particular one, but that’s what they said. You can pretty easily identify the issues with this map. First off, the stringency of state goals appears to have almost no correlation with states that commented on interim goals. So, why are they being mapped together? Personally, no clue. If you want two variables mapped together, I’d assume it’s because they have some sort of relationship. This map really doesn’t tell a story.&lt;/p&gt;
-
-&lt;p&gt;Secondly, the stringency categories are poorly designed. We were told to pull them from the &lt;a href=&quot;http://www.c2es.org/federal/executive/epa/carbon-pollution-standards-map&quot;&gt;Center for Climate and Energy Solutions’ Proposed State Emmission Rate Targets map&lt;/a&gt;, so we copied the ranges directly. Unfortunately, it looks like C2ES was more focused on having a similar number of states in each category than in providing consistent brackets. Instead of breaking down the states into simple, 10-percentage-point brackets, C2ES wanted to have roughly 10 states in each category. So, the stringency measure isn’t really representative of how stringent the states’ goals actually are.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapFive.jpg&quot; alt=&quot;Building Block One Through Four&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This map is, clearly, super busy. I couldn’t come up with a better way to represent each building block, and, since most states that commented discussed all four building blocks, the map ends up looking like one consistent pattern. Currently, you can only really tell when a state didn’t comment on one of the blocks, and that takes some serious focus. I’m not sure that this will be useful, especially when it’s projected onto a screen that 100 feet away from the audience.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapSix.jpg&quot; alt=&quot;Interstate Issues Raised&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This one is much more simple; I feel like the two variable maps look much better. Rectangles talked about fossil fuel interstate issues, slashes talked about renewable interstate issues. Clean and clear.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapSeven.jpg&quot; alt=&quot;Calculation of Renewable Energy Targets&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Of course, we again were asked for a more complicated version. This map is just a breakdown of the renewable interstate issues, and no, you don’t need to read through that mouthful of a title. The three variable pattern seems to work alright here; maybe I could come up with a better pattern for four variables in the future.&lt;/p&gt;
-
-&lt;p&gt;Looking back, I may have missed that I needed to label states like Delaware and Rhode Island off to the side. I feel like I had done that on earlier drafts, but got tired by the end of the project and missed it here. One of the larger issues I had with this project was how much more time it took than I expected, and how many more revisions were asked for. It felt like there were a lot more people involved in the project than were actually doing the work, so I had a lot of (sometimes contradicting) feedback. I also had trouble getting quality feedback; for example, I would be told that the legend entry for one variable should change, but not how it should be changed. This led to me guessing at what they actually wanted, and then needing to do yet another round of revision after they didn’t like what I came up with.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/maps/mapEight.jpg&quot; alt=&quot;Jurisdiction&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Those dynamics were really in play on this map. It wasn’t given priority by the presenters, so they never gave me a clear vision of what the map was supposed to be. We went back and forth on the previously-mentioned fuel mix issues, the legend got rewritten three or four times, and I still had to make last-minute decisions about the categories that I couldn’t clear with the reviewers. The map certainly &lt;em&gt;looks&lt;/em&gt; fine, I’m just not sure that the presenters will use it.&lt;/p&gt;
-
-&lt;p&gt;So, what are the lessons that we’re going to take from this? Positively, I think that I did a good job setting up the sort-of back-end for this. It’ll be easy for me to re-use this work in the future, as I can just plug class names into my SVG template, import to GIMP, and add a title and legend. I had to think about file structure and modularity while I was setting things up, and that should pay off in the future.&lt;/p&gt;
-
-&lt;p&gt;On the other side, there were way too many people providing input on these. Further, it was frustrating to have some of the concerns that we raised at the beginning of the project be ignored, only to do them anyways when reviewers commented on the same issues. It feels like there’s some sort of agenda behind some of the feedback we’ve received, but we don’t really know what, who, or why. Add that to the fact that doing four rounds of edits in five days was exhausting, especially considering that I’ve have plenty of other work to do in preparation for this weekend.&lt;/p&gt;
-
-&lt;p&gt;So, we’ve now written way to much about this. We’ll try to relax a bit, considering that the conference is this weekend. Deadlines always seem to get stressful, even if I do my best to prepare my things ahead of time.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Feb 2015 11:24:00 -0500</pubDate>
-        <link>http://mrandmrsphelan.com/blog/work/maps.html</link>
-        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/maps.html</guid>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>Things That Occur at Work</title>
-        <description>&lt;p&gt;The previous post worked so well that it’s now the About page. Copying that is certainly much easier than striking that balance between I’m-so-great and I’m-so-down-to-earth that an About section always seems to need. Moving on. We’re talking about work here, or, the thing that I’m distracting myself from by writing. We’re in need of pacing ourselves today; it’s already been (and will continue to be) pretty busy.&lt;/p&gt;
-
-&lt;p&gt;My company goes to the three annual meetings of our not-exactly-parent organization, the &lt;a href=&quot;http://www.naruc.org&quot;&gt;National Association of Regulatory Utility Commissioners (NARUC)&lt;/a&gt;, and one of those starts this weekend. Fortunately, we don’t need to travel for this one, as it takes place right off the Red Line in DC. Still, we print mountains of presentations and papers, and generally have to be on our collective A-game when interacting with Commissioners. I’ve also gotten roped into doing graphics for a presentation on the EPA’s 111(d) proposal, which has created a sizable amount of work. I’ll probably throw some of those up here when they’re finished.&lt;/p&gt;
-
-&lt;p&gt;I also had to draft up an op-ed for &lt;a href=&quot;http://www.energybiz.com&quot;&gt;EnergyBiz&lt;/a&gt;, an energy-sector magazine/website/whatever the hell media wants to call itself these days. It’s a pretty simple restatement of &lt;a href=&quot;http://communities.nrri.org/research-papers/-/document_library_display/3stN/view/0/15401?_110_INSTANCE_3stN_redirect=http%3A%2F%2Fcommunities.nrri.org%2Fresearch-papers%3Fp_p_id%3D110_INSTANCE_3stN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1&quot;&gt;my last research paper&lt;/a&gt;, but in a much more succinct package.&lt;/p&gt;
-
-&lt;p&gt;Moving forwards, I think I have an idea for the next research paper. I already have a title (as that’s clearly the most important part of a paper): Designing Effective Cybersecurity Regulation: Concepts, Misconceptions, and Innovations. I’m pretty big on the subtitle, even if I’m not convinced that putting Concepts and Misconceptions back-to-back is correct; we may need to find a synonym for one of the two. It really creates a whole narrative journey in just three words. Concepts, or, the boring part that you still need to know. Misconceptions, the dangerous part that eats away at your confidence. Innovations, to provide a goal, to promise a forward path for the reader.&lt;/p&gt;
-
-&lt;p&gt;Anyways, the idea of the paper is that regulators and technical experts speak very, very different languages. I’ve sat through a number of really cool presentations on honeypots and Stuxnet that are filled with cat jokes and internet memes. Simply, these things are not going to gain the interest, or respect, of the more traditional-minded utility regulator. So, a lot of things get lost in the divide. Basic security concepts, like &lt;a href=&quot;http://www.crypto-it.net/eng/theory/kerckhoffs.html&quot;&gt;Kerckhoffs’ principle&lt;/a&gt;, aren’t understood by most regulators. This leads to some misguided efforts in creating cybersecurity regulation. I want to provide regulators with the knowledge background needed to create effective regulations; regulations that are reasonably met, technically accurate, and engender safer cybersecurity practices.&lt;/p&gt;
-
-&lt;p&gt;We’ll see how that goes. Anyways, I’m back to the third (fourth? fifth?) revision of these 111(d) maps.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Feb 2015 05:09:00 -0500</pubDate>
-        <link>http://mrandmrsphelan.com/blog/work/thingsAtWork.html</link>
-        <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/thingsAtWork.html</guid>
-        
-        
-        <category>work</category>
         
       </item>
     
