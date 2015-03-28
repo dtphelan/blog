@@ -8,6 +8,8 @@ url: "http://mrandmrsphelan.com"
 twitter_username: dtphelan
 github_username:  dtphelan
 facebook_username:  dan.phelan.14
+collections:
+  - reports
 
 # Build settings
 markdown: kramdown
@@ -18,6 +20,5 @@ highlighter: rouge
 highlighter: pygments
 permalink: none
 paginate: 5
-pagination: true
 plugins:  ./_plugins
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
