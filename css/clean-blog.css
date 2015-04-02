@@ -1,12 +1,9 @@
-.footnotes {
-  font-size: 16px;
-  color: #666666;
-  font-style: italic;
-}
-.bodyFootnote {
-  text-decoration: none;
-  color: #337AB7;
-}
+/*!
+ * Clean Blog v1.0.0 (http://startbootstrap.com)
+ * Copyright 2015 Start Bootstrap
+ * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
