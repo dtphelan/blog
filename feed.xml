@@ -5,9 +5,9 @@
     <description>A blog, with blogging things</description>
     <link>http://mrandmrsphelan.com/blog/</link>
     <atom:link href="http://mrandmrsphelan.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Apr 2015 11:49:44 -0400</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2015 11:49:44 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 02 Apr 2015 16:08:31 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2015 16:08:31 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Web Design Explosion</title>
@@ -17,7 +17,7 @@
 
 &lt;p&gt;Now, I should just leave it alone for a bit. It’s doubtful that I’ll actually get to implement the new page, and I’ve spent way too much energy on it already. I’ll have to think of this post as a bit of a teaser; I’ve got a bunch of things to write about later on. The goal, now: forget about the page for (at least) the weekend.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 27 Mar 2015 13:31:00 -0400</pubDate>
+        <pubDate>Fri, 27 Mar 2015 17:31:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/web/webDesign.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/web/webDesign.html</guid>
         
@@ -59,7 +59,7 @@ ___
 
 &lt;p&gt;Customize the path to your blog’s preferred structure, and this pulls in custom.css and custom.js to your post. Excellent.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 Mar 2015 04:51:00 -0400</pubDate>
+        <pubDate>Wed, 25 Mar 2015 08:51:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/jekyllCustomAssets.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/jekyllCustomAssets.html</guid>
         
@@ -169,7 +169,7 @@ ___
 
 &lt;p&gt;Few of these policies affect already-constructed plants. Alabama, Indiana, and Ohio do offer incentives to running plants, but each of the negative incentives is placed on potential new nuclear plants. Nonetheless, three of the four recent closures have occurred in states that have adopted negative nuclear incentives. The final closure occurred in Florida, whose policies have encouraged new nuclear development. New nuclear appears to be linked to such positive incentives, as two of the three plants under construction are located in states with those policies.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Mar 2015 09:01:00 -0400</pubDate>
+        <pubDate>Mon, 23 Mar 2015 13:01:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/report/nuclearRetention.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/report/nuclearRetention.html</guid>
         
@@ -188,7 +188,7 @@ ___
 
 &lt;p&gt;Anyways.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 16 Mar 2015 12:06:00 -0400</pubDate>
+        <pubDate>Mon, 16 Mar 2015 16:06:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/middling.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/middling.html</guid>
         
@@ -209,7 +209,7 @@ ___
 
 &lt;p&gt;This leaves us with little to work on, and only a month to work on it. Clearly, I’m pretty down on the project. Most likely, the project ends up being anecdotal, however useful that is.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Mar 2015 07:19:00 -0400</pubDate>
+        <pubDate>Tue, 10 Mar 2015 11:19:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/work/updates.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/updates.html</guid>
         
@@ -237,7 +237,7 @@ ___
 &lt;h1 id=&quot;critical-infrastructure-information-sharing-programs&quot;&gt;Critical Infrastructure Information Sharing Programs&lt;/h1&gt;
 &lt;p&gt;Critical infrastructure utilities face physical and cyber threats from advanced actors. Private utilities do not have the resources needed to be constantly aware of developing threats; utilities must rely on information sharing initiatives with federal agencies and their private sector peers. This report will examine the information sharing initiatives currently available to utilities, proposals for improving the information sharing process, and how state regulators can get involved.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Feb 2015 05:09:00 -0500</pubDate>
+        <pubDate>Thu, 19 Feb 2015 10:09:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/work/paperIdeas.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/paperIdeas.html</guid>
         
@@ -254,7 +254,7 @@ ___
 
 &lt;p&gt;&lt;a href=&quot;http://www.electricitypolicy.com/news/7768-state-regulators-stir-cybersecurity-pot&quot;&gt;Available at Electricity Daily.&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Feb 2015 04:07:00 -0500</pubDate>
+        <pubDate>Thu, 19 Feb 2015 09:07:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/cyber/stateRegulators.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/cyber/stateRegulators.html</guid>
         
@@ -411,7 +411,7 @@ ___
 
 &lt;p&gt;&lt;a href=&quot;http://www.eenews.net/stories/1060013552&quot;&gt;Available at EnergyWire, story by Peter Behr and Blake Sobczak.&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 17 Feb 2015 07:16:00 -0500</pubDate>
+        <pubDate>Tue, 17 Feb 2015 12:16:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/cyber/energyWire.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/cyber/energyWire.html</guid>
         
@@ -509,7 +509,7 @@ ___
 
 &lt;p&gt;So, we’ve now written way to much about this. We’ll try to relax a bit, considering that the conference is this weekend. Deadlines always seem to get stressful, even if I do my best to prepare my things ahead of time.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Feb 2015 11:24:00 -0500</pubDate>
+        <pubDate>Fri, 13 Feb 2015 16:24:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/work/maps.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/maps.html</guid>
         
@@ -532,7 +532,7 @@ ___
 
 &lt;p&gt;We’ll see how that goes. Anyways, I’m back to the third (fourth? fifth?) revision of these 111(d) maps.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Feb 2015 05:09:00 -0500</pubDate>
+        <pubDate>Fri, 13 Feb 2015 10:09:00 +0000</pubDate>
         <link>http://mrandmrsphelan.com/blog/work/thingsAtWork.html</link>
         <guid isPermaLink="true">http://mrandmrsphelan.com/blog/work/thingsAtWork.html</guid>
         
