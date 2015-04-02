@@ -22,3 +22,37 @@ permalink: none
 paginate: 5
 plugins:  ./_plugins
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Travis CI settings
+username: dtphelan
+repo: blog
+destination: ../dtphelan/blog-pages/
+relative_source: ../dtphelan/blog/
+
+# Prose.io settings
+prose:
+  ignore:
+    - /_data
+    - /_includes
+    - /_layouts
+    - /_plugins
+    - /_site
+    - /css
+    - /fonts
+    - /img
+    - /js
+    - /less
+    - /mail
+    - /node_modules
+    - /report
+    - .travis.yml
+    - _config.yml
+    - _config_dev.yml
+    - about.html
+    - feed.xml
+    - Gruntfile.js
+    - index.html
+    - LICENSE
+    - package.json
+    - Rakefile
+    - README.md
