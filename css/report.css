@@ -1,0 +1,55 @@
+p {
+  width: 65%;
+}
+
+pre {
+  width: 65%;
+}
+
+.marginnote a, .sidenote a {
+  color: #a00000; }
+
+.sidenote, .marginnote {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.25rem;
+  line-height: 1.25;
+  vertical-align: baseline;
+  position: relative; }
+
+@media screen and (max-width: 600px) {
+  p {
+    width: 75%; } }
+@media screen and (max-width: 400px) {
+  p {
+    width: 90%; } }
+
+.sidenote a {
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+  margin-bottom: 1.25rem; }
+
+@media screen and (max-width: 600px) {
+  .sidenote, .marginnote {
+    width: 25%;
+    margin-right: -35%; } }
+@media screen and (max-width: 400px) {
+  .sidenote, .marginnote {
+    display: none; } }
+
+.sidenote a {
+  text-decoration: none;
+  font-family: 'Lora', 'Times New Roman', serif; }
+
+sup.sidenote-number {
+  color: #A00000; }
+
+.fullwidth {
+  max-width: 95%; }
+
+span.newthought {
+  font-variant: small-caps; }
