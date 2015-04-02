@@ -6,7 +6,7 @@ date:       2015-03-27 17:31:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-04.jpg"
 comments:   true
-category: web
+category:   web
 ---
 Well then. We had an, uh, explosion of activity over the past few days. Not, of course, on the work topic that so desperately needs it, but on web design stuff. You know, the thing that should probably be my lowest priority. Head <a href="http://mrandmrsphelan.com/nrri">over here </a> to see what came of it, then read this to hear what it's about.
 
