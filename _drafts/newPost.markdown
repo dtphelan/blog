@@ -1,12 +1,18 @@
 ---
-layout:     post
-title:      "Title"
-subtitle:   "Subtitle"
-date:       2015-02-13 10:09:00
-author:     "Daniel Phelan"
-header-img: "img/post-bg-01.jpg"
-comments:   true
-category:
-custom_css:
-custom_js:  
+layout: post
+title: "2015-11-17-Example-for-Meagan"
+subtitle: Subtitle
+date: {}
+author: Daniel Phelan
+"header-img": "img/post-bg-01.jpg"
+comments: true
+category: null
+custom_css: null
+custom_js: null
+published: true
 ---
+
+## Heading
+
+Typing like this is really easy! *Here's italics* **Here's bold**
+
